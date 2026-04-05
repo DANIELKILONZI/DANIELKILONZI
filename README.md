@@ -1,19 +1,27 @@
 <h1 align="center">Hi, I'm Daniel Kilonzi 👋</h1>
 
 <p align="center">
-  <em>Systems Engineer · Network Architect · Security Researcher · Based in Kenya 🌍</em>
+  <em>Security & AI Infrastructure Architect · FinTech Risk Specialist · Founder, <a href="https://github.com/DANIELKILONZI">Pulsewave Labs</a> · Nairobi, Kenya 🌍</em>
 </p>
 
 ---
 
 ### 🧠 About Me
 
-I enjoy working close to the metal — operating systems, networking protocols, security systems, and fraud intelligence. I like understanding how things work at a fundamental level, and I try to build solutions that are thoughtful and well-grounded.
+I design and implement security-first architectures for FinTech and AI-driven systems. My work sits at the intersection of cybersecurity, cloud infrastructure, and low-level systems engineering — with a focus on building resilience from the ground up, not bolting it on after the fact.
 
-- 🔭 Currently building: **[MAMALI](https://github.com/DANIELKILONZI/MAMALI)** — a self-hosted retail platform & business operations system, and **[ECN](https://github.com/DANIELKILONZI/ECN)** — an Executable Consensus Network
+Through **Pulsewave Labs**, I work on:
+- Security architecture & threat modelling for SMEs and fintech-oriented systems
+- Penetration testing and attack surface reduction
+- AI-powered automation with secure deployment practices
+- DevSecOps and secure SDLC integration
+
+I also do bug bounty research on [Bugcrowd](https://bugcrowd.com), focusing on web applications, APIs, and network-layer vulnerabilities.
+
+- 🔭 Currently building: **[MAMALI](https://github.com/DANIELKILONZI/MAMALI)** — a self-hosted retail & business operations platform, and **[ECN](https://github.com/DANIELKILONZI/ECN)** — an Executable Consensus Network
 - 🧬 Exploring: Instruction-fluid architectures, executable network packets, and experimental OS design
-- 🛡️ Interested in: Cybersecurity, fraud forensics, zero-trust networking, and low-level protocol engineering
-- 🌍 Based in Kenya — building with Africa and the world in mind
+- 📈 Side interest: Quantitative financial markets analysis (150+ structured analyses published, 78% directional accuracy on major pairs)
+- 🎓 BSc Computer Science, Gretsa University · CCNA · CS50 (Harvard, Distinction)
 
 ---
 
@@ -40,11 +48,14 @@ I enjoy working close to the metal — operating systems, networking protocols, 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Networking-005C97?style=flat&logo=cisco&logoColor=white"/>
 </p>
 
-**Domains:** Systems Programming · OS Design · Network Protocols · Cybersecurity · Fraud Detection · Blockchain & Smart Contracts · FinTech
+**Domains:** Security Architecture · DevSecOps · AI Infrastructure · Network Protocols · Systems Programming · Fraud Detection · Blockchain · FinTech
 
 ---
 
@@ -59,4 +70,6 @@ I enjoy working close to the metal — operating systems, networking protocols, 
 
 ### 📫 Let's Connect
 
-Always happy to chat about systems, security, networking, or fintech — feel free to reach out if you want to collaborate or just exchange ideas.
+Open to collaboration on security architecture, AI infrastructure, fintech systems, or anything at the intersection of those areas. Always happy to exchange ideas.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielkilonzi)
