@@ -1,19 +1,19 @@
-<h1 align="center">Hey, I'm Daniel Kilonzi 👋</h1>
+<h1 align="center">Hi, I'm Daniel Kilonzi 👋</h1>
 
 <p align="center">
-  <em>Systems Engineer · Network Architect · Security Researcher · Builder of Things That Shouldn't Exist Yet</em>
+  <em>Systems Engineer · Network Architect · Security Researcher · Based in Kenya 🌍</em>
 </p>
 
 ---
 
 ### 🧠 About Me
 
-I design and build systems at the edges of what's considered standard — custom operating systems, experimental networking stacks, zero-trust protocols, and fraud intelligence engines. I care deeply about how machines actually work at the lowest levels, and I push those boundaries into new territory.
+I enjoy working close to the metal — operating systems, networking protocols, security systems, and fraud intelligence. I like understanding how things work at a fundamental level, and I try to build solutions that are thoughtful and well-grounded.
 
-- 🔭 Currently building: **[MAMALI](https://github.com/DANIELKILONZI/MAMALI)** — a self-hosted retail platform & business control system, and **[ECN](https://github.com/DANIELKILONZI/ECN)** — an Executable Consensus Network
-- 🧬 Researching: Instruction-fluid architectures, executable network packets, and reality-substrate OS design
-- 🛡️ Passionate about: Cybersecurity, fraud forensics, zero-trust networking, and low-level protocol engineering
-- 🌍 Based in Kenya — building for Africa and the world
+- 🔭 Currently building: **[MAMALI](https://github.com/DANIELKILONZI/MAMALI)** — a self-hosted retail platform & business operations system, and **[ECN](https://github.com/DANIELKILONZI/ECN)** — an Executable Consensus Network
+- 🧬 Exploring: Instruction-fluid architectures, executable network packets, and experimental OS design
+- 🛡️ Interested in: Cybersecurity, fraud forensics, zero-trust networking, and low-level protocol engineering
+- 🌍 Based in Kenya — building with Africa and the world in mind
 
 ---
 
@@ -21,14 +21,14 @@ I design and build systems at the edges of what's considered standard — custom
 
 | Project | Description | Stack |
 |---|---|---|
-| [Vesper-OS](https://github.com/DANIELKILONZI/Vesper-OS) | Custom operating system with its own TCP/IP stack | C |
-| [Executable-Network-Packets](https://github.com/DANIELKILONZI/Executable-Network-Packets) | Controlled, safe execution layer over the network | C |
-| [Instruction-Fluid-Architecture](https://github.com/DANIELKILONZI/Instruction-Fluid-Architecture) | Programs as flowing fields of computation, not sequences | Python |
-| [Quantum-Deception-System](https://github.com/DANIELKILONZI/Quantum-Deception-System) | Reality camouflage engine | Python |
+| [Vesper-OS](https://github.com/DANIELKILONZI/Vesper-OS) | Experimental OS with a custom TCP/IP stack | C |
+| [Executable-Network-Packets](https://github.com/DANIELKILONZI/Executable-Network-Packets) | Research into controlled, safe execution over the network | C |
+| [Instruction-Fluid-Architecture](https://github.com/DANIELKILONZI/Instruction-Fluid-Architecture) | Exploring alternative models of program execution | Python |
+| [Quantum-Deception-System](https://github.com/DANIELKILONZI/Quantum-Deception-System) | Active deception layer for network security research | Python |
 | [ZTLNP](https://github.com/DANIELKILONZI/ZTLNP) | Zero-Trust Local Network Protocol | Python |
-| [Smart-Contract-Intelligence-Scanner](https://github.com/DANIELKILONZI/Smart-Contract-Intelligence-Scanner) | Etherscan-style audit tool + threat intelligence platform | Python |
+| [Smart-Contract-Intelligence-Scanner](https://github.com/DANIELKILONZI/Smart-Contract-Intelligence-Scanner) | Smart contract audit tool with threat intelligence | Python |
 | [Mobile-Money-Fraud-DNA-System](https://github.com/DANIELKILONZI/Mobile-Money-Fraud-DNA-System) | Behavioral risk intelligence API for mobile money | Python |
-| [Fraud-forensics-as-a-Service](https://github.com/DANIELKILONZI/Fraud-forensics-as-a-Service-for-SMEs) | Real-time fraud reconstruction & evidence engine for SMEs | Python |
+| [Fraud-forensics-as-a-Service](https://github.com/DANIELKILONZI/Fraud-forensics-as-a-Service-for-SMEs) | Fraud reconstruction & evidence tooling for SMEs | Python |
 | [MAMALI](https://github.com/DANIELKILONZI/MAMALI) | Self-hosted retail platform + business operations engine | TypeScript |
 
 ---
@@ -59,6 +59,4 @@ I design and build systems at the edges of what's considered standard — custom
 
 ### 📫 Let's Connect
 
-I'm open to collaboration on systems, security, networking, or fintech projects — especially ones pushing into unexplored territory.
-
-> *"Most engineers build on the road. I'm usually building the road itself."*
+Always happy to chat about systems, security, networking, or fintech — feel free to reach out if you want to collaborate or just exchange ideas.
