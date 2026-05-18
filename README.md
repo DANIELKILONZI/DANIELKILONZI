@@ -34,7 +34,9 @@
 ---
 
 <!-- ABOUT -->
-<h2 align="center">Who I Am</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=64&text=%F0%9F%91%A4+Who+I+Am&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="Who I Am"/>
+</p>
 
 <p align="center">
   I'm a software engineer who works at the edges — the parts of systems that break, get abused, or get ignored.<br/>
@@ -45,12 +47,20 @@
   <em>Kenya-based. Thinking in distributed systems. Building for the real world.</em>
 </p>
 
+<table align="center"><tr><td align="center" width="760">
+<br/>
+&ldquo;<strong>The most dangerous assumption in software is that the happy path is the only path.</strong>&rdquo;
+<br/><br/>
+</td></tr></table>
+
 <br/>
 
 ---
 
 <!-- WHAT I BUILD -->
-<h2 align="center">What I Build</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=64&text=%F0%9F%94%A8+What+I+Build&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="What I Build"/>
+</p>
 
 <div align="center">
 
@@ -68,16 +78,18 @@
 ---
 
 <!-- CURRENTLY BUILDING -->
-<h2 align="center">Currently Building</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=64&text=%F0%9F%9A%80+Currently+Building&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="Currently Building"/>
+</p>
 
 <div align="center">
 
-```text
-🔭  Fraud intelligence platform    →  real-time scoring, explainable signals, audit trail
-🛡️  Cybersecurity tooling          →  detection, alerting, forensic log pipelines
-🔗  Protocol experiments           →  binary formats, deterministic p2p execution
-🤖  AI-powered backend agents      →  LLM orchestration + tool use + secure sandboxing
-```
+| Project | What's Cooking | Status |
+|:---|:---|:---:|
+| 🔭 **Fraud Intelligence Platform** | Real-time scoring · Explainable signals · Audit trail | ![active](https://img.shields.io/badge/active-22d3ee?style=flat-square&labelColor=0c2340) |
+| 🛡️ **Cybersecurity Tooling** | Threat detection · Alerting · Forensic log pipelines | ![active](https://img.shields.io/badge/active-f97316?style=flat-square&labelColor=0c2340) |
+| 🔗 **Protocol Experiments** | Binary formats · Deterministic P2P execution | ![research](https://img.shields.io/badge/research-7dd3fc?style=flat-square&labelColor=0c2340) |
+| 🤖 **AI-Powered Backend Agents** | LLM orchestration · Tool use · Secure sandboxing | ![building](https://img.shields.io/badge/building-a78bfa?style=flat-square&labelColor=0c2340) |
 
 </div>
 
@@ -86,7 +98,9 @@
 ---
 
 <!-- STACK -->
-<h2 align="center">Stack</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=64&text=%E2%9A%99%EF%B8%8F+Stack&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="Stack"/>
+</p>
 
 <p align="center">
   <strong>Languages</strong><br/><br/>
@@ -113,7 +127,9 @@
 ---
 
 <!-- STATS -->
-<h2 align="center">Stats</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=64&text=%F0%9F%93%8A+Stats&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="Stats"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DANIELKILONZI&theme=react-dark&hide_border=true&area=true&radius=8&color=00d4ff&line=0369a1&point=00d4ff&area_color=1e3a5f&custom_title=Contribution+Activity" alt="Contribution graph"/>
@@ -144,7 +160,9 @@
 ---
 
 <!-- SNAKE -->
-<h2 align="center">Contribution Snake</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=64&text=%F0%9F%90%8D+Contribution+Snake&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="Contribution Snake"/>
+</p>
 
 <p align="center">
   <picture>
@@ -158,8 +176,19 @@
 
 ---
 
+<!-- RANDOM QUOTE -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Dev Quote"/>
+</p>
+
+<br/>
+
+---
+
 <!-- FOOTER CTA -->
-<h2 align="center">Let's Connect</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=64&text=%F0%9F%A4%9D+Let%27s+Connect&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="Let's Connect"/>
+</p>
 
 <p align="center">
   I'm open to interesting roles, collaborations, and problems worth solving.<br/>
