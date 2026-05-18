@@ -76,9 +76,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DANIELKILONZI&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=0d1117&icon_color=00d4ff&title_color=00d4ff" height="165" alt="GitHub stats"/>
-  <img src="https://streak-stats.demolab.com?user=DANIELKILONZI&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=f97316&currStreakLabel=00d4ff&sideLabels=00d4ff" height="165" alt="GitHub streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANIELKILONZI&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00d4ff" height="165" alt="Top languages"/>
+  <a href="https://github.com/DANIELKILONZI">
+    <img src="https://github-readme-stats.vercel.app/api?username=DANIELKILONZI&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=0d1117&icon_color=00d4ff&title_color=00d4ff" height="165" alt="GitHub stats"/>
+  </a>
+  <a href="https://github.com/DANIELKILONZI">
+    <img src="https://streak-stats.demolab.com?user=DANIELKILONZI&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=f97316&currStreakLabel=00d4ff&sideLabels=00d4ff" height="165" alt="GitHub streak"/>
+  </a>
+  <a href="https://github.com/DANIELKILONZI?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANIELKILONZI&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00d4ff" height="165" alt="Top languages"/>
+  </a>
 </p>
 
 ---
