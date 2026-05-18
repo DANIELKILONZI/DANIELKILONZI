@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Daniel%20Kilonzi&fontAlign=50&fontAlignY=40&color=0:0f172a,50:1e3a5f,100:0369a1&fontColor=00d4ff&stroke=00d4ff&strokeWidth=2&animation=fadeIn&desc=Security%20%E2%80%A2%20Systems%20%E2%80%A2%20Trust&descAlign=50&descAlignY=62&descSize=16" alt="Header banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Daniel%20Kilonzi&fontAlign=50&fontAlignY=40&color=0:0f172a,50:1e3a5f,100:0369a1&fontColor=00d4ff&stroke=00d4ff&strokeWidth=2&animation=twinkling&desc=Security%20%E2%80%A2%20Systems%20%E2%80%A2%20Trust&descAlign=50&descAlignY=62&descSize=16" alt="Header banner"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=800&duration=2200&center=true&vCenter=true&multiline=false&width=800&color=00d4ff&lines=Security-first+systems+builder+%F0%9F%94%90;Polyglot+%E2%80%A2+many+stacks+%E2%80%A2+one+standard;FinTech+fraud+%E2%80%A2+protocols+%E2%80%A2+AI+infra;I+build+for+the+messy+real+world;Infrastructure+behind+digital+trust" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1200&duration=2800&center=true&vCenter=true&multiline=false&width=920&color=00d4ff&lines=Security-first+systems+builder+%F0%9F%94%90;Polyglot+%E2%80%A2+many+stacks+%E2%80%A2+one+standard;FinTech+fraud+%E2%80%A2+protocols+%E2%80%A2+AI+infra;I+build+for+the+messy+real+world;Infrastructure+behind+digital+trust" alt="Typing animation"/>
 </p>
 
 <p align="center">
