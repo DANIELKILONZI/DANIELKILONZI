@@ -1,39 +1,61 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Daniel%20Kilonzi&fontAlign=50&fontAlignY=40&color=0:0f172a,50:1e3a5f,100:0369a1&fontColor=00d4ff&stroke=00d4ff&strokeWidth=2&animation=twinkling&desc=Security%20%E2%80%A2%20Systems%20%E2%80%A2%20Trust&descAlign=50&descAlignY=62&descSize=16" alt="Header banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Daniel%20Kilonzi&fontAlign=50&fontAlignY=44&color=0:0f172a,50:0c2340,100:0369a1&fontColor=00d4ff&stroke=0369a1&strokeWidth=1&animation=fadeIn&desc=Security%20%E2%80%A2%20Systems%20%E2%80%A2%20Trust&descAlign=50&descAlignY=64&descSize=20&descColor=93c5fd" alt="Header banner"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1200&duration=2800&center=true&vCenter=true&multiline=false&width=920&color=00d4ff&lines=Security-first+systems+builder+%F0%9F%94%90;Polyglot+%E2%80%A2+many+stacks+%E2%80%A2+one+standard;FinTech+fraud+%E2%80%A2+protocols+%E2%80%A2+AI+infra;I+build+for+the+messy+real+world;Infrastructure+behind+digital+trust" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&duration=3200&center=true&vCenter=true&width=920&color=00d4ff&lines=Security-first+systems+builder+%F0%9F%94%90;FinTech+fraud+%E2%80%A2+protocols+%E2%80%A2+AI+infra;Zero-trust+%E2%80%A2+tamper-proof+%E2%80%A2+resilient;I+build+for+the+messy+parts+of+the+real+world;Polyglot+%E2%80%A2+many+stacks+%E2%80%A2+one+standard" alt="Typing animation"/>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DANIELKILONZI&style=for-the-badge&color=0369a1&label=PROFILE+VIEWS" alt="Profile views"/>
+  &nbsp;
   <a href="https://www.linkedin.com/in/daniel-kimeu-7274491b4"><img src="https://img.shields.io/badge/LinkedIn-Daniel%20Kilonzi-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <img src="https://img.shields.io/badge/📍-Kenya-16a34a?style=for-the-badge" alt="Kenya"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/📍_Kenya-16a34a?style=for-the-badge" alt="Kenya"/>
+  &nbsp;
   <img src="https://img.shields.io/badge/Open%20to-Hard%20Problems-f97316?style=for-the-badge" alt="Open to hard problems"/>
 </p>
 
 ---
 
-<p align="center"><em>I build for the parts people usually ignore — security, trust, abuse, failure, risk, infrastructure.</em></p>
+<br/>
 
-<p align="center"><strong>How do you build systems that still make sense when the real world gets messy?</strong></p>
+<p align="center">
+  <em><strong>I build for the parts people usually ignore —</strong><br/>security, trust, abuse, failure, risk, infrastructure.</em>
+</p>
+
+<p align="center">
+  <strong>How do you build systems that still make sense when the real world gets messy?</strong>
+</p>
+
+<br/>
 
 ---
 
 ## What I work on
 
+<div align="center">
+
 | 🔐 Security & Trust | 💸 FinTech & Fraud | 🌐 Protocols & Dist. | 🤖 AI & Automation |
-|---|---|---|---|
+|:---:|:---:|:---:|:---:|
 | tamper-proof logs | mobile money risk | human-readable binary protocols | AI security assistants |
 | API abuse classification | fraud-forensics-as-a-service | executable network packets | intelligent agents |
 | zero-trust local networks | anomaly detection | deterministic distributed exec | automation pipelines |
+
+</div>
 
 ---
 
 ## Current focus
 
-`cybersecurity tooling` · `fintech fraud intelligence` · `backend & cloud infra` · `AI automation` · `verification-grade logging` · `protocol experiments`
+<p align="center">
+  <img src="https://img.shields.io/badge/cybersecurity%20tooling-0369a1?style=flat-square&logoColor=white" alt="cybersecurity tooling"/>
+  <img src="https://img.shields.io/badge/fintech%20fraud%20intelligence-0369a1?style=flat-square&logoColor=white" alt="fintech fraud intelligence"/>
+  <img src="https://img.shields.io/badge/backend%20%26%20cloud%20infra-0369a1?style=flat-square&logoColor=white" alt="backend & cloud infra"/>
+  <img src="https://img.shields.io/badge/AI%20automation-0369a1?style=flat-square&logoColor=white" alt="AI automation"/>
+  <img src="https://img.shields.io/badge/verification--grade%20logging-0369a1?style=flat-square&logoColor=white" alt="verification-grade logging"/>
+  <img src="https://img.shields.io/badge/protocol%20experiments-0369a1?style=flat-square&logoColor=white" alt="protocol experiments"/>
+</p>
 
 ---
 
