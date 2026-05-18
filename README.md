@@ -43,8 +43,8 @@
 </p>
 
 <p align="center">
-  I'm a software engineer who works at the edges — the parts of systems that break, get abused, or get ignored.<br/>
-  Security tooling, fraud detection, trust infrastructure, resilient backends, and things that have to work even when the internet doesn't cooperate.
+  I build for the parts people usually ignore — security, trust, abuse, failure, risk, and infrastructure.<br/>
+  How do you build systems that still make sense when the real world gets messy?
 </p>
 
 <p align="center">
@@ -106,19 +106,25 @@
 
 <!-- WHAT I BUILD -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=72&text=%F0%9F%94%A8+What+I+Build&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=38bdf8&animation=fadeIn" alt="What I Build"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=72&text=%F0%9F%94%A8+What+I+Work+On&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=38bdf8&animation=fadeIn" alt="What I Work On"/>
 </p>
 
 <div align="center">
 
-| 🔐 Security & Trust | 💸 FinTech & Fraud | 🌐 Protocols & Networks | 🤖 AI & Automation |
+| 🔐 Security & Trust | 💸 FinTech & Fraud | 🌐 Protocols & Dist. | 🤖 AI & Automation |
 |:---|:---|:---|:---|
-| Tamper-proof audit logs | Mobile money fraud detection | Human-readable binary protocols | AI security assistants |
+| Tamper-proof logs | Mobile money risk | Human-readable binary protocols | AI security assistants |
 | API abuse classification | Fraud-forensics-as-a-service | Executable network packets | Intelligent automation pipelines |
-| Zero-trust local networks | Real-time anomaly detection | Deterministic distributed execution | LLM-powered backend agents |
-| Secure key management | Risk scoring engines | Custom packet formats | Data extraction & enrichment |
+| Zero-trust local networks | Anomaly detection | Deterministic distributed exec | Intelligent agents |
 
 </div>
+
+<br/>
+
+<p align="center">
+  <strong>Current focus:</strong><br/>
+  cybersecurity tooling · fintech fraud intelligence · backend &amp; cloud infra · AI automation · verification-grade logging · protocol experiments
+</p>
 
 <br/>
 
