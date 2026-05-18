@@ -79,6 +79,29 @@
 
 <br/>
 
+<table align="center" width="820">
+  <tr>
+    <td align="center" width="205">
+      <strong>🧭 Focus</strong><br/>
+      <sub>I work best where trust, speed, and failure modes all collide.</sub>
+    </td>
+    <td align="center" width="205">
+      <strong>📉 Risk</strong><br/>
+      <sub>I like systems that explain why they blocked, challenged, or allowed.</sub>
+    </td>
+    <td align="center" width="205">
+      <strong>🧱 Infrastructure</strong><br/>
+      <sub>Backends should be observable, auditable, and boring in production.</sub>
+    </td>
+    <td align="center" width="205">
+      <strong>⚙️ Delivery</strong><br/>
+      <sub>I optimize for small loops, clear decisions, and production reality.</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 ---
 
 <!-- WHAT I BUILD -->
@@ -326,9 +349,30 @@ flowchart LR
 
 ---
 
-<!-- RANDOM QUOTE -->
+<!-- ASK ME ABOUT -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Dev Quote"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=56&text=%F0%9F%A7%AA+Ask+Me+About&fontSize=24&color=0:020617,50:0369a1,100:0c2340&fontColor=7dd3fc&animation=twinkling" alt="Ask Me About"/>
+</p>
+
+<table align="center" width="820">
+  <tr>
+    <td align="center" width="273">
+      <strong>🔐 Applied Security</strong><br/>
+      <sub>Threat modeling, auditability, credential boundaries, abuse resistance, and secure defaults that survive contact with production.</sub>
+    </td>
+    <td align="center" width="273">
+      <strong>💸 Fraud &amp; Trust Systems</strong><br/>
+      <sub>Risk scoring, explainable fraud signals, event pipelines, policy engines, and how to reduce loss without destroying user experience.</sub>
+    </td>
+    <td align="center" width="273">
+      <strong>🤖 Agentic Backends</strong><br/>
+      <sub>Tool-using LLM systems, sandboxed execution, permission boundaries, traceability, and keeping automation useful under real constraints.</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub>Good conversation starters: protocol design, resilient APIs, observability, postmortems, and the weird bugs that only happen at scale.</sub>
 </p>
 
 <br/>
@@ -440,6 +484,36 @@ flowchart LR
 
 <p align="center"><br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1800&duration=2800&center=true&vCenter=true&width=980&color=f97316&background=00000000&repeat=true&lines=%22The+best+code+I+ever+wrote+was+the+code+I+deleted%22;%22Every+production+outage+is+a+masterclass+in+what+you+didn't+instrument%22;%22If+it+runs+fine+on+your+machine%2C+your+machine+is+not+the+product%22;%22The+threat+model+is+always+wrong.+The+question+is+by+how+much.%22" alt="Daniel's dev truisms"/>
+</p>
+
+<br/>
+
+---
+
+<!-- COLLABORATION MODEL -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=72&text=%F0%9F%A7%A9+How+I+Like+to+Collaborate&fontSize=24&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="How I Like to Collaborate"/>
+</p>
+
+<table align="center" width="820">
+  <tr>
+    <td align="center" width="273">
+      <strong>1. Define the risk</strong><br/>
+      <sub>Before architecture, we agree on what can fail, what matters most, and what cannot be compromised.</sub>
+    </td>
+    <td align="center" width="273">
+      <strong>2. Ship the smallest real thing</strong><br/>
+      <sub>I prefer thin slices with telemetry over impressive prototypes that teach nothing about production behavior.</sub>
+    </td>
+    <td align="center" width="273">
+      <strong>3. Keep the system legible</strong><br/>
+      <sub>Clear interfaces, explicit decisions, and incident-friendly designs beat cleverness every time.</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub>Best fit: teams building high-trust products, hardening critical paths, or turning messy operational problems into calm systems.</sub>
 </p>
 
 <br/>
