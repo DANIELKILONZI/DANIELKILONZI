@@ -24,10 +24,17 @@ I value engineering that is secure by design, operationally resilient, and pract
 
 ### What I work on
 
-- 🔐 cybersecurity engineering, offensive testing, secure system design
-- ⚙️ backend architecture, API platforms, cloud and DevSecOps workflows
-- 🤖 AI/ML-enabled automation, fraud analytics, and risk intelligence
-- 🌐 distributed systems, networking models, and protocol experimentation
+- Cybersecurity engineering, offensive testing, and secure system design
+- Backend architecture, API platforms, and cloud-native DevSecOps workflows
+- AI/ML-enabled automation, fraud analytics, and risk intelligence systems
+- Distributed systems, networking models, and protocol experimentation
+
+### Work I like to ship
+
+- Security-first backend services with strong authentication, authorization, and auditability
+- Risk and fraud infrastructure that supports detection, triage, and operational response
+- Automation systems that reduce manual security and infrastructure overhead
+- Platform foundations that remain maintainable under scale and adversarial conditions
 
 ### A few themes I keep returning to
 
