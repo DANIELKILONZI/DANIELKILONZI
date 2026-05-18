@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=800&duration=2200&center=true&vCenter=true&multiline=false&width=800&color=00d4ff&lines=Security-first+systems+builder+%F0%9F%94%90;FinTech+fraud+%E2%80%A2+protocols+%E2%80%A2+AI+infra;I+build+for+the+messy+real+world;Infrastructure+behind+digital+trust" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=800&duration=2200&center=true&vCenter=true&multiline=false&width=800&color=00d4ff&lines=Security-first+systems+builder+%F0%9F%94%90;Polyglot+%E2%80%A2+many+stacks+%E2%80%A2+one+standard;FinTech+fraud+%E2%80%A2+protocols+%E2%80%A2+AI+infra;I+build+for+the+messy+real+world;Infrastructure+behind+digital+trust" alt="Typing animation"/>
 </p>
 
 <p align="center">
@@ -40,7 +40,23 @@
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,fastapi,nodejs,postgres,redis,docker,githubactions,linux,kali&theme=dark&perline=10" alt="Tech stack icons"/>
+  <strong>Languages</strong><br/>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,go,rust,java,c,cpp,php,kotlin,bash,solidity&theme=dark&perline=12" alt="Language icons"/>
+</p>
+
+<p align="center">
+  <strong>Frameworks &amp; Libraries</strong><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,express,react,nextjs,spring,laravel,graphql,selenium,jest&theme=dark&perline=12" alt="Framework icons"/>
+</p>
+
+<p align="center">
+  <strong>Data, Infrastructure &amp; Tooling</strong><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,docker,kubernetes,githubactions,linux,aws,nginx,git&theme=dark&perline=12" alt="Infra icons"/>
+</p>
+
+<p align="center">
+  <strong>Security &amp; Specialised</strong><br/>
+  <img src="https://skillicons.dev/icons?i=kali,grafana,prometheus,terraform,ansible,rabbitmq,kafka,supabase,firebase,cloudflare,vercel,netlify&theme=dark&perline=12" alt="Security and specialist icons"/>
 </p>
 
 ---
