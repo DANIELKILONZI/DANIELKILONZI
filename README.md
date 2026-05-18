@@ -1,11 +1,11 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Daniel%20Kilonzi&fontAlign=50&fontAlignY=42&color=0:0d1117,40:0c2340,100:0369a1&fontColor=00d4ff&stroke=0369a1&strokeWidth=1.5&animation=fadeIn&desc=Security%20%E2%80%A2%20Systems%20%E2%80%A2%20Trust&descAlign=50&descAlignY=62&descSize=18&descColor=7dd3fc" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=Daniel%20Kilonzi&fontAlign=50&fontAlignY=40&fontSize=58&color=0:020617,35:0c2340,70:0369a1,100:22d3ee&fontColor=e0f2fe&stroke=38bdf8&strokeWidth=1.5&animation=twinkling&desc=Security%20%E2%80%A2%20Systems%20%E2%80%A2%20Trust%20Infrastructure&descAlign=50&descAlignY=63&descSize=20&descColor=7dd3fc" alt="Header"/>
 </p>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&duration=3000&center=true&vCenter=true&width=960&color=00d4ff&background=00000000&lines=Security-first+systems+builder+%F0%9F%94%90;I+build+for+the+parts+people+skip;FinTech+fraud+%E2%80%A2+protocols+%E2%80%A2+AI+infra;Zero-trust+%E2%80%A2+tamper-proof+%E2%80%A2+resilient;Polyglot+%E2%80%A2+many+stacks+%E2%80%A2+one+standard;When+things+get+messy+is+when+I+start" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&duration=2600&center=true&vCenter=true&width=980&color=22d3ee&background=00000000&repeat=true&lines=%F0%9F%94%90+Threat-modeling+the+messy+parts+of+software;%F0%9F%92%B8+Building+fraud+signals+that+explain+themselves;%F0%9F%8C%90+Designing+protocols+that+stay+readable+under+pressure;%F0%9F%A4%96+Orchestrating+AI+agents+inside+real+constraints;%E2%9A%A1+Turning+resilience%2C+trust%2C+and+speed+into+defaults" alt="Typing animation"/>
 </p>
 
 <!-- META BADGES -->
