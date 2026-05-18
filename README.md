@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=900&lines=Builder+%7C+Hacker+%7C+Researcher;Cybersecurity+%2B+Backend+%2B+AI%2FML;I+build+secure+systems+and+strange+ideas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=900&lines=Builder+%7C+Hacker+%7C+Researcher;Security+%7C+Backend+%7C+Systems;I+like+solving+hard+infrastructure+problems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,34 +14,32 @@
 
 ## Daniel Kilonzi
 
-> *I like building secure systems, weird protocols, and ideas that feel slightly too early.*
+> *I like hard problems, solid systems, and ideas that are a little weird.*
 
-I'm a Kenya-based cybersecurity-focused builder working across backend engineering, AI/ML, cloud infrastructure, distributed systems, and protocol design.
+I'm Daniel, a builder from Kenya working across cybersecurity, backend engineering, cloud infrastructure, and AI/ML.
 
-Most people build apps. I naturally drift toward **systems** — trust layers, tamper-evident logs, fraud intelligence, zero-trust networks, offline-first ideas, and experimental protocol work.
+I usually end up closer to the infrastructure side of things — security, APIs, automation, risk systems, and the messy trust problems that sit underneath real products.
 
-I care about software that is:
+I care about work that is:
 
 - secure  
 - resilient  
-- verifiable  
-- architecturally clean  
-- useful in the real world  
+- practical  
+- clean enough to maintain  
 
 ### What I work on
 
-- 🔐 cybersecurity, pentesting, bug bounty, secure design
-- ⚙️ backend systems, APIs, DevSecOps, cloud infrastructure
-- 🤖 AI/ML tooling, automation, fraud and risk intelligence
-- 🌐 distributed systems, networking, and protocol experimentation
+- 🔐 security work, pentesting, secure design
+- ⚙️ backend systems, APIs, cloud and DevOps
+- 🤖 automation, AI/ML tooling, fraud and risk problems
+- 🌐 distributed systems, networking, and protocol experiments
 
 ### A few themes I keep returning to
 
-- tamper-proof and auditable systems  
+- trust and verification  
 - fintech fraud and digital risk  
-- trust-aware networking  
-- zero-trust local infrastructure  
-- experimental compute and protocol ideas  
+- secure infrastructure  
+- networking and protocol ideas  
 
 ### Technologies I work with
 
@@ -63,7 +61,7 @@ I care about software that is:
 
 ### Right now
 
-I'm actively growing toward roles and projects in:
+Right now I'm focused on roles and projects around:
 
 - Cybersecurity
 - Backend engineering
@@ -71,7 +69,7 @@ I'm actively growing toward roles and projects in:
 - AI/ML and data infrastructure
 - Fintech, digital trust, and systems architecture
 
-Long term, I want to build high-impact systems for **security, fintech, AI infrastructure, and next-generation computing**.
+Long term, I want to build strong systems in **security, fintech, and AI infrastructure**.
 
 ---
 
