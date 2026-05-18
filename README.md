@@ -16,16 +16,11 @@
 
 > *I like hard problems, solid systems, and ideas that are a little weird.*
 
-I'm Daniel, a builder from Kenya working across cybersecurity, backend engineering, cloud infrastructure, and AI/ML.
+I'm Daniel, based in Kenya. I spend most of my time around cybersecurity, backend engineering, cloud infrastructure, and AI/ML.
 
 I usually end up closer to the infrastructure side of things — security, APIs, automation, risk systems, and the messy trust problems that sit underneath real products.
 
-I care about work that is:
-
-- secure  
-- resilient  
-- practical  
-- clean enough to maintain  
+Good work, to me, is secure, resilient, practical, and simple enough to maintain.
 
 ### What I work on
 
@@ -61,7 +56,7 @@ I care about work that is:
 
 ### Right now
 
-Right now I'm focused on roles and projects around:
+Right now I'm looking for roles and projects around:
 
 - Cybersecurity
 - Backend engineering
