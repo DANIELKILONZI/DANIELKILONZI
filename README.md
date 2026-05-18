@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=900&lines=Cybersecurity-Focused+Technologist;Backend+Engineer+%7C+Systems+Builder+%7C+AI%2FML+Enthusiast;Security-First+Architect+for+Future-Facing+Digital+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=900&lines=Builder+%7C+Hacker+%7C+Researcher;Cybersecurity+%2B+Backend+%2B+AI%2FML;I+build+secure+systems+and+strange+ideas" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,40 +14,34 @@
 
 ## Daniel Kilonzi
 
-> *Builder. Hacker. Researcher. Designing secure, scalable, and future-facing systems.*
+> *I like building secure systems, weird protocols, and ideas that feel slightly too early.*
 
-I am a cybersecurity-focused technologist, backend developer, AI/ML enthusiast, and systems builder based in Kenya. My work lives at the intersection of **cybersecurity, artificial intelligence, distributed systems, cloud infrastructure, fintech, and experimental protocol design**.
+I'm a Kenya-based cybersecurity-focused builder working across backend engineering, AI/ML, cloud infrastructure, distributed systems, and protocol design.
 
-I approach engineering with a **security-first mindset**: resilience, privacy, verification, auditability, adversarial thinking, and operational reliability are core design principles from day one.
+Most people build apps. I naturally drift toward **systems** — trust layers, tamper-evident logs, fraud intelligence, zero-trust networks, offline-first ideas, and experimental protocol work.
 
-### What defines my work
+I care about software that is:
 
-- 🔐 Building systems that are **secure, deterministic, explainable, and resilient under failure**
-- 🧠 Exploring **AI-driven automation, data infrastructure, and intelligent decision systems**
-- 🌐 Designing **distributed protocols, zero-trust architectures, and trust-aware networking**
-- ⚙️ Engineering **backend platforms, APIs, cloud-native services, and DevSecOps workflows**
-- 🧪 Researching unconventional ideas such as **executable consensus, offline-first networking, tamper-evident systems, and protocol virtualization**
+- secure  
+- resilient  
+- verifiable  
+- architecturally clean  
+- useful in the real world  
 
-### Technical profile
+### What I work on
 
-I combine experience across:
+- 🔐 cybersecurity, pentesting, bug bounty, secure design
+- ⚙️ backend systems, APIs, DevSecOps, cloud infrastructure
+- 🤖 AI/ML tooling, automation, fraud and risk intelligence
+- 🌐 distributed systems, networking, and protocol experimentation
 
-- **Cybersecurity** — penetration testing, vulnerability research, bug bounty workflows, secure system design, cloud security, and DevSecOps
-- **Backend & infrastructure** — Python, FastAPI, Node.js, TypeScript, Express, PostgreSQL, Redis, Docker, Linux, and cloud-native development
-- **AI/ML & data systems** — AI infrastructure, automation pipelines, fraud intelligence, and decision-support tooling
-- **Systems & protocol design** — low-level systems thinking, cryptography-inspired trust models, distributed execution, and networking experimentation
+### A few themes I keep returning to
 
-### Selected project themes
-
-My projects often sit beyond conventional app development and focus on infrastructure, trust, and verification:
-
-| Area | Examples |
-|---|---|
-| Secure logging & trust systems | Tamper-proof logging, auditable systems, insider threat detection |
-| Fintech risk & fraud intelligence | Mobile money behavioral risk intelligence, forensic fraud analysis, secure financial tooling |
-| Protocol & networking R&D | Zero-trust local network protocols, offline-first networking layers, human-readable binary protocols |
-| Experimental compute systems | Executable consensus systems, adaptive virtual machines, distributed execution concepts |
-| Security tooling | Smart contract scanning, recon workflows, vulnerability research, security automation |
+- tamper-proof and auditable systems  
+- fintech fraud and digital risk  
+- trust-aware networking  
+- zero-trust local infrastructure  
+- experimental compute and protocol ideas  
 
 ### Technologies I work with
 
@@ -67,17 +61,17 @@ My projects often sit beyond conventional app development and focus on infrastru
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" alt="Playwright"/>
 </p>
 
-### Current direction
+### Right now
 
-I am actively positioning myself for opportunities in:
+I'm actively growing toward roles and projects in:
 
 - Cybersecurity
 - Backend engineering
 - Cloud computing & DevOps
 - AI/ML and data infrastructure
-- Digital trust, fintech, and next-generation systems architecture
+- Fintech, digital trust, and systems architecture
 
-My long-term vision is to become a **leading security-first technologist and systems architect** building high-impact platforms for fintech, enterprise security, AI infrastructure, and future-scale computing.
+Long term, I want to build high-impact systems for **security, fintech, AI infrastructure, and next-generation computing**.
 
 ---
 
