@@ -8,6 +8,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&duration=2600&center=true&vCenter=true&width=980&color=22d3ee&background=00000000&repeat=true&lines=%F0%9F%94%90+Threat-modeling+the+messy+parts+of+software;%F0%9F%92%B8+Building+fraud+signals+that+explain+themselves;%F0%9F%8C%90+Designing+protocols+that+stay+readable+under+pressure;%F0%9F%A4%96+Orchestrating+AI+agents+inside+real+constraints;%E2%9A%A1+Turning+resilience%2C+trust%2C+and+speed+into+defaults" alt="Typing animation"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1400&duration=2200&center=true&vCenter=true&width=980&color=7dd3fc&background=00000000&repeat=true&lines=%24+./engine+--mode+creative-trust+--latency+low;%24+./defend+--threats+real-time+--resilience+max;%24+./ship+--systems+secure+--standards+high" alt="Terminal style animation"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=14&color=0:020617,30:0ea5e9,65:22d3ee,100:0c2340&animation=twinkling&section=header" alt="Animated divider"/>
+</p>
+
 <!-- META BADGES -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DANIELKILONZI&style=for-the-badge&color=0369a1&label=PROFILE+VIEWS" alt="Profile views"/>
