@@ -1,89 +1,88 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Daniel%20Kilonzi&fontAlign=50&fontAlignY=33&color=0:0f172a,100:0369a1&fontColor=ffffff&animation=fadeIn" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Daniel%20Kilonzi&fontAlign=50&fontAlignY=40&color=0:0f172a,50:1e3a5f,100:0369a1&fontColor=00d4ff&stroke=00d4ff&strokeWidth=2&animation=fadeIn&desc=Security%20%E2%80%A2%20Systems%20%E2%80%A2%20Trust&descAlign=50&descAlignY=62&descSize=16" alt="Header banner"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&duration=2500&center=true&vCenter=true&width=920&lines=Security-first+systems+builder;Cybersecurity+%7C+Backend+%7C+AI+Infrastructure;FinTech+risk%2C+fraud%2C+protocols%2C+and+trust;I+build+infrastructure+for+messy+real+world+problems" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=800&duration=2200&center=true&vCenter=true&multiline=false&width=800&color=00d4ff&lines=Security-first+systems+builder+%F0%9F%94%90;FinTech+fraud+%E2%80%A2+protocols+%E2%80%A2+AI+infra;I+build+for+the+messy+real+world;Infrastructure+behind+digital+trust" alt="Typing animation"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/daniel-kimeu-7274491b4"><img src="https://img.shields.io/badge/LinkedIn-Daniel%20Kilonzi-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <img src="https://img.shields.io/badge/Based%20in-Kenya-green?style=for-the-badge" alt="Based in Kenya"/>
-  <img src="https://img.shields.io/badge/Open%20to-Roles%20%26%20Hard%20Problems-orange?style=for-the-badge" alt="Open to roles"/>
+  <img src="https://komarev.com/ghpvc/?username=DANIELKILONZI&style=for-the-badge&color=0369a1&label=PROFILE+VIEWS" alt="Profile views"/>
+  <a href="https://www.linkedin.com/in/daniel-kimeu-7274491b4"><img src="https://img.shields.io/badge/LinkedIn-Daniel%20Kilonzi-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/📍-Kenya-16a34a?style=for-the-badge" alt="Kenya"/>
+  <img src="https://img.shields.io/badge/Open%20to-Hard%20Problems-f97316?style=for-the-badge" alt="Open to hard problems"/>
 </p>
 
 ---
 
-## I build systems for the parts people usually ignore.
+<p align="center"><em>I build for the parts people usually ignore — security, trust, abuse, failure, risk, infrastructure.</em></p>
 
-Security. Trust. Abuse. Failure. Risk. Infrastructure.
+<p align="center"><strong>How do you build systems that still make sense when the real world gets messy?</strong></p>
 
-I work at the intersection of cybersecurity, backend engineering, cloud systems, AI infrastructure, and fintech risk.
+---
 
-> How do you build systems that still make sense when the real world gets messy?
+## What I work on
+
+| 🔐 Security & Trust | 💸 FinTech & Fraud | 🌐 Protocols & Dist. | 🤖 AI & Automation |
+|---|---|---|---|
+| tamper-proof logs | mobile money risk | human-readable binary protocols | AI security assistants |
+| API abuse classification | fraud-forensics-as-a-service | executable network packets | intelligent agents |
+| zero-trust local networks | anomaly detection | deterministic distributed exec | automation pipelines |
 
 ---
 
 ## Current focus
 
-- cybersecurity tooling
-- fintech fraud and risk intelligence
-- backend and cloud infrastructure
-- AI-assisted automation
-- secure APIs and verification-grade logging
-- protocol and networking experiments
+`cybersecurity tooling` · `fintech fraud intelligence` · `backend & cloud infra` · `AI automation` · `verification-grade logging` · `protocol experiments`
 
 ---
 
-## Selected project lanes
+## Stack
 
-**Security & trust systems**
-- tamper-proof logs
-- API abuse classification
-- zero-trust local network protocols
-
-**FinTech & fraud intelligence**
-- mobile money risk intelligence
-- fraud-forensics-as-a-service
-- anomaly detection and risk scoring
-
-**Protocols & distributed systems**
-- human-readable binary protocols
-- executable network packets
-- deterministic distributed execution
-
-**AI infrastructure & automation**
-- AI security assistants
-- intelligent agents
-- automation pipelines for ops and risk
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,fastapi,nodejs,postgres,redis,docker,githubactions,linux,kali&theme=dark&perline=10" alt="Tech stack icons"/>
+</p>
 
 ---
 
-## Stack (core)
+## Trophies
 
-`Python` `TypeScript` `FastAPI` `Node.js` `PostgreSQL` `Redis` `Neo4j` `Docker` `GitHub Actions` `Playwright`
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DANIELKILONZI&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub trophies"/>
+</p>
 
 ---
 
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DANIELKILONZI&theme=react-dark&hide_border=true&area=true" alt="Activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DANIELKILONZI&theme=react-dark&hide_border=true&area=true&radius=8" alt="Contribution graph"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DANIELKILONZI&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="150" alt="GitHub stats"/>
-  <img src="https://streak-stats.demolab.com?user=DANIELKILONZI&theme=tokyonight&hide_border=true" height="150" alt="GitHub streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DANIELKILONZI&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="155" alt="GitHub stats"/>
+  <img src="https://streak-stats.demolab.com?user=DANIELKILONZI&theme=tokyonight&hide_border=true" height="155" alt="GitHub streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANIELKILONZI&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="155" alt="Top languages"/>
 </p>
 
 ---
 
-## Contact
+## Contribution snake
 
-- LinkedIn: [Daniel Kilonzi](https://www.linkedin.com/in/daniel-kimeu-7274491b4)
-- Based in: Kenya
-- Open to: roles, collaborations, research projects, and hard technical problems
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DANIELKILONZI/DANIELKILONZI/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DANIELKILONZI/DANIELKILONZI/output/github-snake.svg"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/DANIELKILONZI/DANIELKILONZI/output/github-snake.svg"/>
+  </picture>
+</p>
 
 ---
 
-> I build systems for the parts people usually ignore: security, trust, abuse, failure, risk, and infrastructure.
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniel-kimeu-7274491b4">LinkedIn</a> · Kenya · Open to roles, collaborations &amp; hard problems
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0369a1,100:0f172a&section=footer" alt="Footer"/>
+</p>
