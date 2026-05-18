@@ -27,6 +27,10 @@
   <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Nairobi%2C%20Kenya-16a34a?style=for-the-badge" alt="Kenya"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20to-Hard%20Problems-f97316?style=for-the-badge" alt="Open to hard problems"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/GMT%2B3-East%20Africa%20Time-0f766e?style=for-the-badge&logo=clockify&logoColor=white" alt="Timezone"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Caffeine-Powered-6d28d9?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Caffeine powered"/>
 </p>
 
 <br/>
@@ -35,7 +39,7 @@
 
 <!-- ABOUT -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=64&text=%F0%9F%91%A4+Who+I+Am&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="Who I Am"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=72&text=%F0%9F%91%A4+Who+I+Am&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="Who I Am"/>
 </p>
 
 <p align="center">
@@ -55,11 +59,31 @@
 
 <br/>
 
+<!-- ENGINEERING PRINCIPLES -->
+<table align="center" width="780">
+  <tr>
+    <td align="center" width="260">
+      <strong>🎯 Security by Design</strong><br/>
+      <sub>Not a feature — a foundation.<br/>Threat model first, build second.</sub>
+    </td>
+    <td align="center" width="260">
+      <strong>📡 Observe Everything</strong><br/>
+      <sub>If it can fail silently, it will.<br/>Instrument before you need it.</sub>
+    </td>
+    <td align="center" width="260">
+      <strong>⚡ Resilience as Default</strong><br/>
+      <sub>Happy paths are easy.<br/>Edge cases are where real systems live.</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 ---
 
 <!-- WHAT I BUILD -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=64&text=%F0%9F%94%A8+What+I+Build&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="What I Build"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=72&text=%F0%9F%94%A8+What+I+Build&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="What I Build"/>
 </p>
 
 <div align="center">
@@ -79,7 +103,7 @@
 
 <!-- CURRENTLY BUILDING -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=64&text=%F0%9F%9A%80+Currently+Building&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="Currently Building"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=72&text=%F0%9F%9A%80+Currently+Building&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="Currently Building"/>
 </p>
 
 <div align="center">
@@ -99,7 +123,7 @@
 
 <!-- STACK -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=64&text=%E2%9A%99%EF%B8%8F+Stack&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="Stack"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=72&text=%E2%9A%99%EF%B8%8F+Stack&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="Stack"/>
 </p>
 
 <p align="center">
@@ -126,9 +150,30 @@
 
 ---
 
+<!-- ON MY RADAR -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=72&text=%F0%9F%94%AD+On+My+Radar&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="On My Radar"/>
+</p>
+
+<p align="center">
+  <em>Technologies I'm actively exploring or keeping a close eye on:</em>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&duration=2400&center=true&vCenter=true&width=980&color=a78bfa&background=00000000&repeat=true&lines=%E2%96%B6+eBPF+%E2%80%94+kernel-level+observability+without+kernel+modules;%E2%96%B6+WebAssembly+%E2%80%94+portable+execution+beyond+the+browser;%E2%96%B6+Zero-Knowledge+Proofs+%E2%80%94+privacy-preserving+verification+at+scale;%E2%96%B6+Formal+Verification+%E2%80%94+provably+correct+distributed+systems;%E2%96%B6+Homomorphic+Encryption+%E2%80%94+compute+on+encrypted+data" alt="On my radar"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=wasm,zig&theme=dark" alt="Exploring WASM and Zig"/>
+</p>
+
+<br/>
+
+---
+
 <!-- STATS -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=64&text=%F0%9F%93%8A+Stats&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="Stats"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=72&text=%F0%9F%93%8A+Stats&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="Stats"/>
 </p>
 
 <p align="center">
@@ -155,13 +200,23 @@
   <img src="https://github-profile-trophy.vercel.app/?username=DANIELKILONZI&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DANIELKILONZI&theme=tokyonight" alt="Profile summary"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DANIELKILONZI&theme=tokyonight&utcOffset=3" height="160" alt="Productive time"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DANIELKILONZI&theme=tokyonight" height="160" alt="Repos per language"/>
+</p>
+
 <br/>
 
 ---
 
 <!-- SNAKE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=64&text=%F0%9F%90%8D+Contribution+Snake&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="Contribution Snake"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=72&text=%F0%9F%90%8D+Contribution+Snake&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="Contribution Snake"/>
 </p>
 
 <p align="center">
@@ -187,7 +242,7 @@
 
 <!-- FOOTER CTA -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=64&text=%F0%9F%A4%9D+Let%27s+Connect&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="Let's Connect"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=72&text=%F0%9F%A4%9D+Let%27s+Connect&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="Let's Connect"/>
 </p>
 
 <p align="center">
