@@ -41,17 +41,17 @@
 
 <p align="center">
   <strong>Languages</strong><br/>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,go,rust,java,c,cpp,php,kotlin,bash,solidity&theme=dark&perline=12" alt="Language icons"/>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,go,rust,java,c,cpp,php,kotlin,bash,solidity,swift,dart,ruby,scala&theme=dark&perline=8" alt="Language icons"/>
 </p>
 
 <p align="center">
   <strong>Frameworks &amp; Libraries</strong><br/>
-  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,express,react,nextjs,spring,laravel,graphql,selenium,jest&theme=dark&perline=12" alt="Framework icons"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,express,react,nextjs,spring,laravel,graphql,vue,svelte,tailwind,vite,selenium,jest&theme=dark&perline=8" alt="Framework icons"/>
 </p>
 
 <p align="center">
   <strong>Data, Infrastructure &amp; Tooling</strong><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,docker,kubernetes,githubactions,linux,aws,nginx,git&theme=dark&perline=12" alt="Infra icons"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,docker,kubernetes,githubactions,linux,aws,gcp,azure,nginx,git&theme=dark&perline=7" alt="Infra icons"/>
 </p>
 
 <p align="center">
