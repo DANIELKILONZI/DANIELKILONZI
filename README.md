@@ -171,6 +171,42 @@
 
 ---
 
+<!-- SYSTEM THINKING MAP -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=72&text=%F0%9F%A7%A0+System+Thinking+Map&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="System Thinking Map"/>
+</p>
+
+```mermaid
+flowchart LR
+    A[Threat Signals] --> B[Risk Scoring Engine]
+    B --> C{Policy Decision}
+    C -->|Allow| D[User Experience]
+    C -->|Challenge| E[Step-Up Verification]
+    C -->|Block| F[Abuse Sinkhole]
+    D --> G[Audit Trail]
+    E --> G
+    F --> G
+    G --> H[Feedback + Model Tuning]
+    H --> B
+```
+
+<p align="center">
+  <em>From detection to action to learning — closed-loop trust systems.</em>
+</p>
+
+<table align="center" width="820">
+  <tr>
+    <td align="center" width="205"><strong>1) Sense</strong><br/><sub>Capture weak signals early</sub></td>
+    <td align="center" width="205"><strong>2) Decide</strong><br/><sub>Apply transparent risk policies</sub></td>
+    <td align="center" width="205"><strong>3) Respond</strong><br/><sub>Protect without breaking UX</sub></td>
+    <td align="center" width="205"><strong>4) Learn</strong><br/><sub>Continuously improve models</sub></td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
 <!-- STATS -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&height=72&text=%F0%9F%93%8A+Stats&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="Stats"/>
