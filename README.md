@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=Daniel%20Kilonzi&fontAlign=50&fontAlignY=40&fontSize=58&color=0:020617,35:0c2340,70:0369a1,100:22d3ee&fontColor=e0f2fe&stroke=38bdf8&strokeWidth=1.5&animation=twinkling&desc=Security%20%E2%80%A2%20Systems%20%E2%80%A2%20Trust%20Infrastructure&descAlign=50&descAlignY=63&descSize=20&descColor=7dd3fc" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=340&text=Daniel%20Kilonzi&fontAlign=50&fontAlignY=38&fontSize=62&color=0:020617,35:0c2340,70:0369a1,100:22d3ee&fontColor=e0f2fe&stroke=38bdf8&strokeWidth=2&animation=twinkling&desc=Security%20%E2%80%A2%20Systems%20%E2%80%A2%20Trust%20Infrastructure&descAlign=50&descAlignY=60&descSize=22&descColor=7dd3fc" alt="Header"/>
 </p>
 
 <!-- TYPING ANIMATION -->
@@ -39,7 +39,7 @@
 
 <!-- ABOUT -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=72&text=%F0%9F%91%A4+Who+I+Am&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="Who I Am"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=72&text=%F0%9F%91%A4+Who+I+Am&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="Who I Am"/>
 </p>
 
 <p align="center">
@@ -83,7 +83,7 @@
 
 <!-- WHAT I BUILD -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=72&text=%F0%9F%94%A8+What+I+Build&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="What I Build"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=72&text=%F0%9F%94%A8+What+I+Build&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="What I Build"/>
 </p>
 
 <div align="center">
@@ -103,7 +103,7 @@
 
 <!-- CURRENTLY BUILDING -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=72&text=%F0%9F%9A%80+Currently+Building&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="Currently Building"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=56&text=%F0%9F%9A%80+Currently+Building&fontSize=22&color=0:0c1a2e,50:0369a1,100:0c2340&fontColor=22d3ee&animation=twinkling" alt="Currently Building"/>
 </p>
 
 <div align="center">
@@ -121,9 +121,68 @@
 
 ---
 
+<!-- PINNED PROJECTS -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=72&text=%F0%9F%93%8C+Flagship+Work&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn&reversal=true" alt="Flagship Work"/>
+</p>
+
+<table align="center" width="820">
+  <tr>
+    <td width="400" valign="top">
+      <h3>🛡️ Fraud Intelligence Platform</h3>
+      <p>End-to-end fraud detection system with real-time risk scoring, explainable signals, and a full audit trail. Built for mobile money environments where signal noise is high and latency tolerance is near zero.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      </p>
+      <sub>📡 Real-time · 🔍 Explainable AI · 🔒 Tamper-proof logs</sub>
+    </td>
+    <td width="400" valign="top">
+      <h3>🔐 Trust Mesh — Zero-Trust Local Network</h3>
+      <p>Mutual-auth overlay for local networks. Every node presents a signed certificate, traffic is encrypted in-transit, and policy violations generate forensic-grade events — no central broker required.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+        <img src="https://img.shields.io/badge/mTLS-0369a1?style=flat-square"/>
+        <img src="https://img.shields.io/badge/eBPF-purple?style=flat-square"/>
+      </p>
+      <sub>🌐 Zero-trust · 📜 PKI · 🛰️ Distributed policy engine</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="400" valign="top">
+      <h3>📦 Protocol Forge</h3>
+      <p>Toolkit for defining, parsing, and generating binary network protocols from declarative schemas. Produces human-readable packet descriptions, fuzz harnesses, and Wireshark dissectors automatically.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WASM-654FF0?style=flat-square&logo=webassembly&logoColor=white"/>
+        <img src="https://img.shields.io/badge/nom-22d3ee?style=flat-square"/>
+      </p>
+      <sub>🔧 Parser combinators · 📡 Network layers · 🔬 Fuzz-ready</sub>
+    </td>
+    <td width="400" valign="top">
+      <h3>🤖 Secure Agent Sandbox</h3>
+      <p>LLM orchestration runtime with hard tool-call limits, sandboxed execution contexts, and cryptographically signed operation logs. Designed for autonomous backend agents that can't be trusted blindly.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/seccomp-0f766e?style=flat-square"/>
+      </p>
+      <sub>🧠 LLM agents · 🔒 Sandboxed exec · 📋 Audit-first</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
 <!-- STACK -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=72&text=%E2%9A%99%EF%B8%8F+Stack&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="Stack"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&text=%E2%9A%99%EF%B8%8F+Stack&fontSize=30&color=0:020617,50:0369a1,100:0c2340&fontColor=22d3ee&animation=twinkling&section=header&fontAlignY=55" alt="Stack"/>
 </p>
 
 <p align="center">
@@ -152,7 +211,7 @@
 
 <!-- ON MY RADAR -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=72&text=%F0%9F%94%AD+On+My+Radar&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="On My Radar"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=72&text=%F0%9F%94%AD+On+My+Radar&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=a78bfa&animation=fadeIn" alt="On My Radar"/>
 </p>
 
 <p align="center">
@@ -173,7 +232,7 @@
 
 <!-- SYSTEM THINKING MAP -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=72&text=%F0%9F%A7%A0+System+Thinking+Map&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="System Thinking Map"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=72&text=%F0%9F%A7%A0+System+Thinking+Map&fontSize=24&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="System Thinking Map"/>
 </p>
 
 ```mermaid
@@ -209,7 +268,7 @@ flowchart LR
 
 <!-- STATS -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=72&text=%F0%9F%93%8A+Stats&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="Stats"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=56&text=%F0%9F%93%8A+Stats&fontSize=24&color=0:020617,50:0369a1,100:0c2340&fontColor=22d3ee&animation=twinkling" alt="Stats"/>
 </p>
 
 <p align="center">
@@ -252,7 +311,7 @@ flowchart LR
 
 <!-- SNAKE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=72&text=%F0%9F%90%8D+Contribution+Snake&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="Contribution Snake"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=72&text=%F0%9F%90%8D+Contribution+Snake&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=34d399&animation=fadeIn" alt="Contribution Snake"/>
 </p>
 
 <p align="center">
@@ -278,7 +337,7 @@ flowchart LR
 
 <!-- HOW I WORK -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=72&text=%F0%9F%92%AC+How+I+Work&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="How I Work"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=56&text=%F0%9F%92%AC+How+I+Work&fontSize=24&color=0:020617,50:0369a1,100:0c2340&fontColor=22d3ee&animation=twinkling" alt="How I Work"/>
 </p>
 
 <table align="center" width="820">
@@ -308,7 +367,7 @@ flowchart LR
 
 <!-- LEARNING PHILOSOPHY -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=72&text=%F0%9F%93%96+Learning+Philosophy&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="Learning Philosophy"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=72&text=%F0%9F%93%96+Learning+Philosophy&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=34d399&animation=fadeIn" alt="Learning Philosophy"/>
 </p>
 
 <p align="center">
@@ -321,7 +380,7 @@ flowchart LR
 
 <!-- OPEN SOURCE & COMMUNITY -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=72&text=%F0%9F%8C%8D+Open+Source+%26+Community&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="Open Source and Community"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=72&text=%F0%9F%8C%8D+Open+Source+%26+Community&fontSize=24&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="Open Source and Community"/>
 </p>
 
 <p align="center">
@@ -349,28 +408,74 @@ flowchart LR
 
 ---
 
+<!-- OUTSIDE THE TERMINAL -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=72&text=%F0%9F%8E%B2+Outside+the+Terminal&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=f97316&animation=fadeIn" alt="Outside the Terminal"/>
+</p>
+
+<table align="center" width="820">
+  <tr>
+    <td align="center" width="164">
+      <strong>📚 Reading</strong><br/><br/>
+      <sub>Security engineering papers, distributed systems research, and the occasional philosophy of mind rabbit hole</sub>
+    </td>
+    <td align="center" width="164">
+      <strong>♟️ Chess</strong><br/><br/>
+      <sub>Positional player. Losing to engines since forever. The endgame is always the honest part</sub>
+    </td>
+    <td align="center" width="164">
+      <strong>🏙️ Nairobi</strong><br/><br/>
+      <sub>Wired in from EAT (GMT+3). Shipping things while the rest of the world is still asleep</sub>
+    </td>
+    <td align="center" width="164">
+      <strong>🔧 Hardware Tinkering</strong><br/><br/>
+      <sub>Microcontrollers, custom PCBs, and things that blink. Software is more fun when it touches metal</sub>
+    </td>
+    <td align="center" width="164">
+      <strong>🎵 Focus OS</strong><br/><br/>
+      <sub>Lo-fi when designing. Drum & bass when debugging. Silence when writing docs. It's a whole system</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1800&duration=2800&center=true&vCenter=true&width=980&color=f97316&background=00000000&repeat=true&lines=%22The+best+code+I+ever+wrote+was+the+code+I+deleted%22;%22Every+production+outage+is+a+masterclass+in+what+you+didn't+instrument%22;%22If+it+runs+fine+on+your+machine%2C+your+machine+is+not+the+product%22;%22The+threat+model+is+always+wrong.+The+question+is+by+how+much.%22" alt="Daniel's dev truisms"/>
+</p>
+
+<br/>
+
+---
+
 <!-- FOOTER CTA -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=72&text=%F0%9F%A4%9D+Let%27s+Connect&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="Let's Connect"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&text=%F0%9F%A4%9D+Let%27s+Build+Something+Hard&fontSize=28&color=0:0c1a2e,50:0369a1,100:0d1117&fontColor=22d3ee&animation=twinkling&section=header&fontAlignY=55" alt="Let's Build Something Hard"/>
 </p>
 
 <p align="center">
-  I'm open to interesting roles, collaborations, and problems worth solving.<br/>
-  If you're building something difficult — especially in security, fintech, or AI infrastructure — let's talk.
+  I'm available for senior engineering roles, technical collaborations, and well-scoped consulting.<br/>
+  Especially interested in: <strong>fraud/risk infrastructure · security tooling · AI-backend systems · fintech at scale</strong>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-kimeu-7274491b4">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn CTA"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:danielkilonzi@gmail.com">
-    <img src="https://img.shields.io/badge/Send%20an%20Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email CTA"/>
+    <img src="https://img.shields.io/badge/Email-danielkilonzi%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  &nbsp;
+  <a href="https://github.com/DANIELKILONZI?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-See+My+Work-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repos"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>Response time: usually within 24 h · Preferred first contact: LinkedIn or Email · Open to async-first remote roles</sub>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0369a1,100:0d1117&section=footer" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0369a1,50:0c2340,100:0d1117&section=footer" alt="Footer"/>
 </p>
