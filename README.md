@@ -276,6 +276,79 @@ flowchart LR
 
 ---
 
+<!-- HOW I WORK -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=72&text=%F0%9F%92%AC+How+I+Work&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="How I Work"/>
+</p>
+
+<table align="center" width="820">
+  <tr>
+    <td align="center" width="205">
+      <strong>🗺️ Map First</strong><br/>
+      <sub>Understand the problem space before writing a single line. Diagrams and threat models before code.</sub>
+    </td>
+    <td align="center" width="205">
+      <strong>🔬 Small, Fast Loops</strong><br/>
+      <sub>Ship something verifiable. Iterate tightly. Avoid big-bang integrations wherever possible.</sub>
+    </td>
+    <td align="center" width="205">
+      <strong>📢 Explicit Over Implicit</strong><br/>
+      <sub>Prefer clear contracts, typed interfaces, and obvious failure modes over clever magic.</sub>
+    </td>
+    <td align="center" width="205">
+      <strong>🤝 Context-First Reviews</strong><br/>
+      <sub>Good code review starts with understanding the intent — not hunting for syntax.</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+<!-- LEARNING PHILOSOPHY -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=72&text=%F0%9F%93%96+Learning+Philosophy&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="Learning Philosophy"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1300&duration=2300&center=true&vCenter=true&width=980&color=34d399&background=00000000&repeat=true&lines=%E2%9C%94+Read+papers+before+reaching+for+a+library;%E2%9C%94+Build+the+toy+version+before+adopting+the+production+one;%E2%9C%94+Understand+the+failure+modes+before+praising+the+happy+path;%E2%9C%94+Teach+what+you+learn+%E2%80%94+the+gaps+only+show+when+you+explain;%E2%9C%94+Depth+compounds%2C+breadth+is+just+the+map" alt="Learning philosophy"/>
+</p>
+
+<br/>
+
+---
+
+<!-- OPEN SOURCE & COMMUNITY -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=72&text=%F0%9F%8C%8D+Open+Source+%26+Community&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="Open Source and Community"/>
+</p>
+
+<p align="center">
+  <em>Open source isn't just about shipping code — it's about trust at scale.</em>
+</p>
+
+<table align="center" width="820">
+  <tr>
+    <td align="center" width="273">
+      <strong>🐛 Bug Reports</strong><br/>
+      <sub>Clear reproduction steps save more time than a 500-line PR without context.</sub>
+    </td>
+    <td align="center" width="273">
+      <strong>📝 Documentation</strong><br/>
+      <sub>Good docs are load-bearing. Treat them as first-class code.</sub>
+    </td>
+    <td align="center" width="273">
+      <strong>🔍 Security Disclosures</strong><br/>
+      <sub>Always prefer coordinated disclosure. Fix the ecosystem, not just your repo.</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
 <!-- FOOTER CTA -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&height=72&text=%F0%9F%A4%9D+Let%27s+Connect&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="Let's Connect"/>
