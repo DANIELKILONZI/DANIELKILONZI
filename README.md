@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=900&lines=Builder+%7C+Hacker+%7C+Researcher;Security+%7C+Backend+%7C+Systems;I+like+solving+hard+infrastructure+problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=900&lines=Security-minded+Systems+Builder;Cybersecurity+%7C+Backend+%7C+AI%2FML;Designing+trustworthy+infrastructure+for+real-world+risk" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,27 +14,27 @@
 
 ## Daniel Kilonzi
 
-> *I like hard problems, solid systems, and ideas that are a little weird.*
+> *I build reliable systems for environments where trust, risk, and resilience matter.*
 
-I'm Daniel, based in Kenya. I spend most of my time around cybersecurity, backend engineering, cloud infrastructure, and AI/ML.
+I'm Daniel, based in Kenya, working at the intersection of cybersecurity, backend engineering, cloud infrastructure, and AI/ML.
 
-I usually end up closer to the infrastructure side of things — security, APIs, automation, risk systems, and the messy trust problems that sit underneath real products.
+My strongest work sits in the infrastructure layer: secure APIs, automation pipelines, fraud and risk systems, and architecture designed to hold up under adversarial pressure.
 
-Good work, to me, is secure, resilient, practical, and simple enough to maintain.
+I value engineering that is secure by design, operationally resilient, and practical to evolve over time.
 
 ### What I work on
 
-- 🔐 security work, pentesting, secure design
-- ⚙️ backend systems, APIs, cloud and DevOps
-- 🤖 automation, AI/ML tooling, fraud and risk problems
-- 🌐 distributed systems, networking, and protocol experiments
+- 🔐 cybersecurity engineering, offensive testing, secure system design
+- ⚙️ backend architecture, API platforms, cloud and DevSecOps workflows
+- 🤖 AI/ML-enabled automation, fraud analytics, and risk intelligence
+- 🌐 distributed systems, networking models, and protocol experimentation
 
 ### A few themes I keep returning to
 
-- trust and verification  
-- fintech fraud and digital risk  
-- secure infrastructure  
-- networking and protocol ideas  
+- verifiable and auditable system design  
+- fintech fraud prevention and digital risk controls  
+- secure infrastructure for high-integrity applications  
+- network trust models and protocol design  
 
 ### Technologies I work with
 
@@ -56,7 +56,7 @@ Good work, to me, is secure, resilient, practical, and simple enough to maintain
 
 ### Right now
 
-Right now I'm looking for roles and projects around:
+I’m currently open to roles and projects focused on:
 
 - Cybersecurity
 - Backend engineering
@@ -64,7 +64,7 @@ Right now I'm looking for roles and projects around:
 - AI/ML and data infrastructure
 - Fintech, digital trust, and systems architecture
 
-Long term, I want to build strong systems in **security, fintech, and AI infrastructure**.
+Long term, I aim to build high-impact systems across **security, fintech, and AI infrastructure**.
 
 ---
 
