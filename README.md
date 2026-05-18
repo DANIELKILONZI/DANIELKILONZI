@@ -1,19 +1,19 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=340&text=Daniel%20Kilonzi&fontAlign=50&fontAlignY=38&fontSize=62&color=0:020617,35:0c2340,70:0369a1,100:22d3ee&fontColor=e0f2fe&stroke=38bdf8&strokeWidth=2&animation=twinkling&desc=Security%20%E2%80%A2%20Systems%20%E2%80%A2%20Trust%20Infrastructure&descAlign=50&descAlignY=60&descSize=22&descColor=7dd3fc" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=360&text=Daniel%20Kilonzi&fontAlign=50&fontAlignY=38&fontSize=66&color=0:020617,20:0c2340,55:0369a1,85:22d3ee,100:7dd3fc&fontColor=f0f9ff&stroke=22d3ee&strokeWidth=3&animation=twinkling&desc=Security%20%E2%80%A2%20Systems%20%E2%80%A2%20Trust%20Infrastructure&descAlign=50&descAlignY=62&descSize=24&descColor=7dd3fc" alt="Header"/>
 </p>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&duration=2600&center=true&vCenter=true&width=980&color=22d3ee&background=00000000&repeat=true&lines=%F0%9F%94%90+Threat-modeling+the+messy+parts+of+software;%F0%9F%92%B8+Building+fraud+signals+that+explain+themselves;%F0%9F%8C%90+Designing+protocols+that+stay+readable+under+pressure;%F0%9F%A4%96+Orchestrating+AI+agents+inside+real+constraints;%E2%9A%A1+Turning+resilience%2C+trust%2C+and+speed+into+defaults" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&duration=3200&center=true&vCenter=true&width=980&color=22d3ee&background=00000000&repeat=true&lines=%F0%9F%94%90+Threat-modeling+the+messy+parts+of+software;%F0%9F%92%B8+Building+fraud+signals+that+explain+themselves;%F0%9F%8C%90+Designing+protocols+that+stay+readable+under+pressure;%F0%9F%A4%96+Orchestrating+AI+agents+inside+real+constraints;%E2%9A%A1+Turning+resilience%2C+trust%2C+and+speed+into+defaults;%F0%9F%9B%A1%EF%B8%8F+Making+security+boring+%E2%80%94+in+the+best+way" alt="Typing animation"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1400&duration=2200&center=true&vCenter=true&width=980&color=7dd3fc&background=00000000&repeat=true&lines=%24+./engine+--mode+creative-trust+--latency+low;%24+./defend+--threats+real-time+--resilience+max;%24+./ship+--systems+secure+--standards+high" alt="Terminal style animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1600&duration=2800&center=true&vCenter=true&width=980&color=7dd3fc&background=00000000&repeat=true&lines=%24+./engine+--mode+creative-trust+--latency+low;%24+./defend+--threats+real-time+--resilience+max;%24+./ship+--systems+secure+--standards+high;%24+./audit+--mode+forensic+--scope+full" alt="Terminal style animation"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=14&color=0:020617,30:0ea5e9,65:22d3ee,100:0c2340&animation=twinkling&section=header" alt="Animated divider"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:020617,20:0369a1,40:22d3ee,60:0ea5e9,80:0369a1,100:020617&animation=twinkling&section=header" alt="Animated divider"/>
 </p>
 
 <!-- META BADGES -->
@@ -39,7 +39,7 @@
 
 <!-- ABOUT -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=72&text=%F0%9F%91%A4+Who+I+Am&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="Who I Am"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=72&text=%F0%9F%91%A4+Who+I+Am&fontSize=26&color=0:0c1a2e,100:1e1b4b&fontColor=a78bfa&animation=fadeIn" alt="Who I Am"/>
 </p>
 
 <p align="center">
@@ -106,7 +106,7 @@
 
 <!-- WHAT I BUILD -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=72&text=%F0%9F%94%A8+What+I+Build&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="What I Build"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=72&text=%F0%9F%94%A8+What+I+Build&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=38bdf8&animation=fadeIn" alt="What I Build"/>
 </p>
 
 <div align="center">
@@ -126,7 +126,7 @@
 
 <!-- CURRENTLY BUILDING -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=56&text=%F0%9F%9A%80+Currently+Building&fontSize=22&color=0:0c1a2e,50:0369a1,100:0c2340&fontColor=22d3ee&animation=twinkling" alt="Currently Building"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=64&text=%F0%9F%9A%80+Currently+Building&fontSize=22&color=0:0c1a2e,50:0369a1,100:0c2340&fontColor=22d3ee&animation=twinkling" alt="Currently Building"/>
 </p>
 
 <div align="center">
@@ -146,7 +146,7 @@
 
 <!-- PINNED PROJECTS -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=72&text=%F0%9F%93%8C+Flagship+Work&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn&reversal=true" alt="Flagship Work"/>
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=80&text=%F0%9F%93%8C+Flagship+Work&fontSize=28&color=0:0c1a2e,40:0c2340,100:1e3a5f&fontColor=38bdf8&animation=twinkling&reversal=true" alt="Flagship Work"/>
 </p>
 
 <table align="center" width="820">
@@ -205,7 +205,7 @@
 
 <!-- STACK -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&text=%E2%9A%99%EF%B8%8F+Stack&fontSize=30&color=0:020617,50:0369a1,100:0c2340&fontColor=22d3ee&animation=twinkling&section=header&fontAlignY=55" alt="Stack"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&text=%E2%9A%99%EF%B8%8F+Stack&fontSize=32&color=0:020617,35:0c2340,70:0369a1,100:22d3ee&fontColor=f0f9ff&animation=twinkling&section=header&fontAlignY=58" alt="Stack"/>
 </p>
 
 <p align="center">
@@ -234,7 +234,7 @@
 
 <!-- ON MY RADAR -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=72&text=%F0%9F%94%AD+On+My+Radar&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=a78bfa&animation=fadeIn" alt="On My Radar"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=72&text=%F0%9F%94%AD+On+My+Radar&fontSize=26&color=0:0c1a2e,100:1e1b4b&fontColor=a78bfa&animation=blinking" alt="On My Radar"/>
 </p>
 
 <p align="center">
@@ -242,7 +242,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&duration=2400&center=true&vCenter=true&width=980&color=a78bfa&background=00000000&repeat=true&lines=%E2%96%B6+eBPF+%E2%80%94+kernel-level+observability+without+kernel+modules;%E2%96%B6+WebAssembly+%E2%80%94+portable+execution+beyond+the+browser;%E2%96%B6+Zero-Knowledge+Proofs+%E2%80%94+privacy-preserving+verification+at+scale;%E2%96%B6+Formal+Verification+%E2%80%94+provably+correct+distributed+systems;%E2%96%B6+Homomorphic+Encryption+%E2%80%94+compute+on+encrypted+data" alt="On my radar"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1400&duration=2600&center=true&vCenter=true&width=980&color=a78bfa&background=00000000&repeat=true&lines=%E2%96%B6+eBPF+%E2%80%94+kernel-level+observability+without+kernel+modules;%E2%96%B6+WebAssembly+%E2%80%94+portable+execution+beyond+the+browser;%E2%96%B6+Zero-Knowledge+Proofs+%E2%80%94+privacy-preserving+verification+at+scale;%E2%96%B6+Formal+Verification+%E2%80%94+provably+correct+distributed+systems;%E2%96%B6+Homomorphic+Encryption+%E2%80%94+compute+on+encrypted+data;%E2%96%B6+Confidential+Computing+%E2%80%94+trust+without+full+exposure" alt="On my radar"/>
 </p>
 
 <p align="center">
@@ -255,7 +255,7 @@
 
 <!-- SYSTEM THINKING MAP -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=72&text=%F0%9F%A7%A0+System+Thinking+Map&fontSize=24&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="System Thinking Map"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=80&text=%F0%9F%A7%A0+System+Thinking+Map&fontSize=26&color=0:0c1a2e,50:0c2340,100:1e3a5f&fontColor=22d3ee&animation=fadeIn" alt="System Thinking Map"/>
 </p>
 
 ```mermaid
@@ -291,7 +291,7 @@ flowchart LR
 
 <!-- STATS -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=56&text=%F0%9F%93%8A+Stats&fontSize=24&color=0:020617,50:0369a1,100:0c2340&fontColor=22d3ee&animation=twinkling" alt="Stats"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=64&text=%F0%9F%93%8A+Stats&fontSize=26&color=0:020617,40:0369a1,100:0c2340&fontColor=22d3ee&animation=twinkling" alt="Stats"/>
 </p>
 
 <p align="center">
@@ -334,7 +334,7 @@ flowchart LR
 
 <!-- SNAKE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=72&text=%F0%9F%90%8D+Contribution+Snake&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=34d399&animation=fadeIn" alt="Contribution Snake"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=72&text=%F0%9F%90%8D+Contribution+Snake&fontSize=26&color=0:0c1a2e,100:052e16&fontColor=34d399&animation=fadeIn" alt="Contribution Snake"/>
 </p>
 
 <p align="center">
@@ -351,7 +351,7 @@ flowchart LR
 
 <!-- ASK ME ABOUT -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=56&text=%F0%9F%A7%AA+Ask+Me+About&fontSize=24&color=0:020617,50:0369a1,100:0c2340&fontColor=7dd3fc&animation=twinkling" alt="Ask Me About"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=64&text=%F0%9F%A7%AA+Ask+Me+About&fontSize=24&color=0:020617,50:0369a1,100:0c2340&fontColor=7dd3fc&animation=twinkling" alt="Ask Me About"/>
 </p>
 
 <table align="center" width="820">
@@ -381,7 +381,7 @@ flowchart LR
 
 <!-- HOW I WORK -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=56&text=%F0%9F%92%AC+How+I+Work&fontSize=24&color=0:020617,50:0369a1,100:0c2340&fontColor=22d3ee&animation=twinkling" alt="How I Work"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=64&text=%F0%9F%92%AC+How+I+Work&fontSize=24&color=0:020617,50:0369a1,100:0c2340&fontColor=22d3ee&animation=twinkling&section=header&fontAlignY=54" alt="How I Work"/>
 </p>
 
 <table align="center" width="820">
@@ -411,11 +411,11 @@ flowchart LR
 
 <!-- LEARNING PHILOSOPHY -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=72&text=%F0%9F%93%96+Learning+Philosophy&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=34d399&animation=fadeIn" alt="Learning Philosophy"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=72&text=%F0%9F%93%96+Learning+Philosophy&fontSize=26&color=0:0c1a2e,100:052e16&fontColor=34d399&animation=fadeIn" alt="Learning Philosophy"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1300&duration=2300&center=true&vCenter=true&width=980&color=34d399&background=00000000&repeat=true&lines=%E2%9C%94+Read+papers+before+reaching+for+a+library;%E2%9C%94+Build+the+toy+version+before+adopting+the+production+one;%E2%9C%94+Understand+the+failure+modes+before+praising+the+happy+path;%E2%9C%94+Teach+what+you+learn+%E2%80%94+the+gaps+only+show+when+you+explain;%E2%9C%94+Depth+compounds%2C+breadth+is+just+the+map" alt="Learning philosophy"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1400&duration=2600&center=true&vCenter=true&width=980&color=34d399&background=00000000&repeat=true&lines=%E2%9C%94+Read+papers+before+reaching+for+a+library;%E2%9C%94+Build+the+toy+version+before+adopting+the+production+one;%E2%9C%94+Understand+the+failure+modes+before+praising+the+happy+path;%E2%9C%94+Teach+what+you+learn+%E2%80%94+the+gaps+only+show+when+you+explain;%E2%9C%94+Depth+compounds%2C+breadth+is+just+the+map;%E2%9C%94+Ship+with+telemetry+or+it+didn't+happen" alt="Learning philosophy"/>
 </p>
 
 <br/>
@@ -424,7 +424,7 @@ flowchart LR
 
 <!-- OPEN SOURCE & COMMUNITY -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=72&text=%F0%9F%8C%8D+Open+Source+%26+Community&fontSize=24&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="Open Source and Community"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=72&text=%F0%9F%8C%8D+Open+Source+%26+Community&fontSize=24&color=0:0c1a2e,50:0c2340,100:1e3a5f&fontColor=38bdf8&animation=fadeIn" alt="Open Source and Community"/>
 </p>
 
 <p align="center">
@@ -454,7 +454,7 @@ flowchart LR
 
 <!-- OUTSIDE THE TERMINAL -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=72&text=%F0%9F%8E%B2+Outside+the+Terminal&fontSize=26&color=0:0c1a2e,100:0c2340&fontColor=f97316&animation=fadeIn" alt="Outside the Terminal"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=72&text=%F0%9F%8E%B2+Outside+the+Terminal&fontSize=26&color=0:0c1a2e,100:431407&fontColor=fb923c&animation=fadeIn" alt="Outside the Terminal"/>
 </p>
 
 <table align="center" width="820">
@@ -483,7 +483,7 @@ flowchart LR
 </table>
 
 <p align="center"><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1800&duration=2800&center=true&vCenter=true&width=980&color=f97316&background=00000000&repeat=true&lines=%22The+best+code+I+ever+wrote+was+the+code+I+deleted%22;%22Every+production+outage+is+a+masterclass+in+what+you+didn't+instrument%22;%22If+it+runs+fine+on+your+machine%2C+your+machine+is+not+the+product%22;%22The+threat+model+is+always+wrong.+The+question+is+by+how+much.%22" alt="Daniel's dev truisms"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1800&duration=2800&center=true&vCenter=true&width=980&color=f97316&background=00000000&repeat=true&lines=%22The+best+code+I+ever+wrote+was+the+code+I+deleted%22;%22Every+production+outage+is+a+masterclass+in+what+you+didn't+instrument%22;%22If+it+runs+fine+on+your+machine%2C+your+machine+is+not+the+product%22;%22The+threat+model+is+always+wrong.+The+question+is+by+how+much.%22;%22Latency+is+a+user+experience+bug+disguised+as+an+infrastructure+problem%22;%22The+audit+log+is+the+last+honest+thing+in+a+broken+system%22" alt="Daniel's dev truisms"/>
 </p>
 
 <br/>
@@ -492,7 +492,7 @@ flowchart LR
 
 <!-- COLLABORATION MODEL -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=72&text=%F0%9F%A7%A9+How+I+Like+to+Collaborate&fontSize=24&color=0:0c1a2e,100:0c2340&fontColor=22d3ee&animation=fadeIn" alt="How I Like to Collaborate"/>
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=80&text=%F0%9F%A7%A9+How+I+Like+to+Collaborate&fontSize=24&color=0:0c1a2e,40:0c2340,100:1e3a5f&fontColor=38bdf8&animation=fadeIn" alt="How I Like to Collaborate"/>
 </p>
 
 <table align="center" width="820">
@@ -522,7 +522,7 @@ flowchart LR
 
 <!-- FOOTER CTA -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&text=%F0%9F%A4%9D+Let%27s+Build+Something+Hard&fontSize=28&color=0:0c1a2e,50:0369a1,100:0d1117&fontColor=22d3ee&animation=twinkling&section=header&fontAlignY=55" alt="Let's Build Something Hard"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=%F0%9F%A4%9D+Let%27s+Build+Something+Hard&fontSize=30&color=0:0c1a2e,30:0369a1,65:22d3ee,100:0d1117&fontColor=f0f9ff&animation=twinkling&section=header&fontAlignY=55" alt="Let's Build Something Hard"/>
 </p>
 
 <p align="center">
@@ -551,5 +551,5 @@ flowchart LR
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0369a1,50:0c2340,100:0d1117&section=footer" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0369a1,35:0c2340,70:020617,100:0d1117&section=footer&animation=twinkling" alt="Footer"/>
 </p>
