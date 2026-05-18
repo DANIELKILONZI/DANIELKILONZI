@@ -72,13 +72,13 @@
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DANIELKILONZI&theme=react-dark&hide_border=true&area=true&radius=8" alt="Contribution graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DANIELKILONZI&theme=react-dark&hide_border=true&area=true&radius=8&color=00d4ff&line=0369a1&point=00d4ff&area_color=1e3a5f&custom_title=Contribution+Activity" alt="Contribution graph"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DANIELKILONZI&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="155" alt="GitHub stats"/>
-  <img src="https://streak-stats.demolab.com?user=DANIELKILONZI&theme=tokyonight&hide_border=true" height="155" alt="GitHub streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANIELKILONZI&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="155" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DANIELKILONZI&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=0d1117&icon_color=00d4ff&title_color=00d4ff" height="165" alt="GitHub stats"/>
+  <img src="https://streak-stats.demolab.com?user=DANIELKILONZI&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=f97316&currStreakLabel=00d4ff&sideLabels=00d4ff" height="165" alt="GitHub streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANIELKILONZI&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00d4ff" height="165" alt="Top languages"/>
 </p>
 
 ---
