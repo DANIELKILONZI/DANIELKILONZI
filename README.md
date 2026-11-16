@@ -5,11 +5,11 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&duration=3000&center=true&vCenter=true&width=980&color=22d3ee&background=00000000&repeat=true&lines=%E2%9A%A1+Founder+%40+Silicon+Oath+%E2%80%94+Mobile-hosted+hardware+diagnostic+cyberdeck;%F0%9F%94%90+C99+kernel+memory-sealed+execution+(memfd_create)+on+rootless+Android;%F0%9F%8C%90+Air-gapped+Ed25519+delegated+voucher+mesh+for+informal+repair+workshops;%F0%9F%92%B8+Autonomous+M-PESA+micro-billing+and+PayGo+collateral+lien+forensics;%F0%9F%9B%A1%EF%B8%8F+Preserving+Samsung+Knox+0x0+fuses+and+0%25+customer+data+loss" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&duration=3000&center=true&vCenter=true&width=980&color=22d3ee&background=00000000&repeat=true&lines=%E2%9A%A1+Founder+%40+Silicon+Oath+%E2%80%94+Mobile-hosted+hardware+diagnostic+infrastructure;%F0%9F%94%90+Volatile+kernel+RAM+execution+and+sandboxing+on+rootless+POSIX+systems;%F0%9F%8C%90+Air-gapped+asymmetric+cryptographic+mesh+protocols+for+frontier+markets;%F0%9F%92%B8+Autonomous+mobile-money+micro-billing+and+fraud+telemetry+engines;%F0%9F%9B%A1%EF%B8%8F+Designing+systems+where+security+and+data+integrity+are+invariants" alt="Typing animation"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=1600&duration=2600&center=true&vCenter=true&width=980&color=7dd3fc&background=00000000&repeat=true&lines=%24+./oath+doctor+--mobile+%23+rootless+ARM64+silicon+triage;%24+./pulsewave+--fusion+%23+18-vector+hardware+underwriting;%24+./oath+onboard+voucher+%23+air-gapped+cryptographic+provisioning;%24+./oath+credits+status+%23+KPLC-style+M-PESA+fuel+metering" alt="Terminal command animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=1600&duration=2600&center=true&vCenter=true&width=980&color=7dd3fc&background=00000000&repeat=true&lines=%24+./engine+--target+arm64+--sandbox+sealed;%24+./protocol+--mode+airgapped+--verify+asymmetric;%24+./forensics+--hardware+deep-silicon+--zero-disk-footprint;%24+./settle+--rail+mobile-money+--meter+realtime" alt="Terminal command animation"/>
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Nairobi%2C%20Kenya-16a34a?style=for-the-badge" alt="Nairobi, Kenya"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Status-Building%20Silicon%20Oath-0284c7?style=for-the-badge&logo=target&logoColor=white" alt="Building Silicon Oath"/>
+  <img src="https://img.shields.io/badge/Status-Stealth%20%2F%20Building-0284c7?style=for-the-badge&logo=target&logoColor=white" alt="Status"/>
   &nbsp;
   <img src="https://img.shields.io/badge/EAT-UTC%2B3-0f766e?style=for-the-badge&logo=clockify&logoColor=white" alt="Timezone"/>
 </p>
@@ -61,15 +61,15 @@
   <tr>
     <td align="center" width="273">
       <strong>🔬 Deep Silicon &amp; POSIX</strong><br/>
-      <sub>Anonymous RAM sealing via <code>memfd_create</code>, AOT ARM64 compilation, and Android sysfs telemetry without root.</sub>
+      <sub>Anonymous memory sealing, AOT ARM64 compilation, and kernel-level hardware telemetry on constrained devices.</sub>
     </td>
     <td align="center" width="273">
       <strong>🔐 Applied Cryptography</strong><br/>
-      <sub>Air-gapped Ed25519 token delegation, monotonic boot-anchored clocks, and SHA-256 hash-chained audit ledgers.</sub>
+      <sub>Air-gapped asymmetric token delegation, boot-anchored monotonic clocks, and hash-chained audit ledgers.</sub>
     </td>
     <td align="center" width="273">
       <strong>💸 Frontier Fintech &amp; Defense</strong><br/>
-      <sub>Autonomous M-PESA Daraja settlement, PayGo lien forensics (M-KOPA, Watu), and statutory safe-harbor compliance.</sub>
+      <sub>Autonomous mobile-money micro-settlement, asset lien detection, and statutory data protection compliance.</sub>
     </td>
   </tr>
 </table>
@@ -78,15 +78,16 @@
 
 ---
 
-<!-- FLAGSHIP VENTURE -->
+<!-- VENTURE FOCUS (NO REPO LEAKS / TRADE SECRETS PROTECTED) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=84&text=%F0%9F%A6%88+Flagship+Venture%3A+Silicon+Oath&fontSize=28&color=0:0c1a2e,40:0c2340,100:0369a1&fontColor=38bdf8&animation=twinkling" alt="Flagship Venture: Silicon Oath"/>
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=84&text=%F0%9F%A6%88+Venture+Focus%3A+Silicon+Oath&fontSize=28&color=0:0c1a2e,40:0c2340,100:0369a1&fontColor=38bdf8&animation=twinkling" alt="Venture Focus: Silicon Oath"/>
 </p>
 
 <div align="center">
 
-### **[Silicon Oath / Pulsewave Core](https://github.com/DANIELKILONZI/pulsewave-core)**
-#### *The World’s First Sovereign Mobile Diagnostic Cyberdeck & Cryptographic Repair Operating System*
+### **Silicon Oath**
+#### *Mobile-Hosted Hardware Diagnostics & Cryptographic Trust Substrate*
+<sub>Proprietary Fleet Infrastructure • Private Deployment</sub>
 
 </div>
 
@@ -94,26 +95,24 @@
   <tr>
     <td>
       <p>
-        Across emerging markets, 500,000+ independent repair technicians are held hostage by proprietary, malware-ridden Windows dongle cartels (Chimera, Octoplus, Z3X) that cost hundreds of dollars, require desktop PCs, and routinely wipe customer data.
+        Across emerging markets, 500,000+ independent repair technicians keep hundreds of millions of smartphones alive, but rely on expensive, proprietary desktop equipment and cracked foreign software that frequently compromises customer privacy and wipes user data.
       </p>
       <p>
-        <strong>Silicon Oath</strong> replaces the entire $600 desktop repair rig with an open, sovereign cyberdeck running on a <strong>$50 smartphone</strong> that the technician already carries in their pocket:
+        <strong>Silicon Oath</strong> replaces tethered desktop repair setups with an air-gapped mobile diagnostic cyberdeck running on smartphones technicians already own:
       </p>
       <ul>
-        <li><strong>Zero Forensic Disk Footprint</strong>: C99 engine executes diagnostic payloads in anonymous kernel RAM (<code>memfd_create</code>) sealed with <code>F_SEAL_GROW | F_SEAL_WRITE | F_SEAL_SEAL</code>. Customer photos, banking tokens, and PII vanish on process termination.</li>
-        <li><strong>Air-Gapped Ed25519 Token Mesh</strong>: Master technicians mint compact URL-safe vouchers (<code>SO-V1-...</code>) with device caps and validity windows, claimed offline over SMS or printed QR without internet.</li>
-        <li><strong>Prepaid Fuel Metering (KPLC Model)</strong>: Fractional micro-billing via Safaricom M-PESA Daraja at KES 25/run. Burn-on-run architecture eliminates post-repair cash bypass.</li>
-        <li><strong>Hardware Invariants</strong>: Programmatic enforcement of <strong>0% Customer Data Loss</strong> and <strong>Samsung Knox 0x0 fuse preservation</strong>.</li>
-        <li><strong>PayGo Collateral Defense</strong>: Deep-scans device partitions for active asset financing locks (M-KOPA, Watu Simu, D.light), protecting technicians under Kenya Penal Code §322.</li>
+        <li><strong>Zero Forensic Disk Footprint</strong>: Executes diagnostic payloads entirely in volatile kernel memory, ensuring customer PII and sensitive data leave no traces on local flash storage.</li>
+        <li><strong>Air-Gapped Delegated Trust Mesh</strong>: Hierarchical public-key cryptography enables offline provisioning, lease issuance, and tamper-evident auditing across disconnected field nodes.</li>
+        <li><strong>Fractional Micro-Metering</strong>: Real-time unit economics integrated directly with African mobile money rails, aligning operational costs with daily diagnostic volume.</li>
+        <li><strong>Hardware &amp; Data Invariants</strong>: Programmatic enforcement of data preservation and strict hardware fuse integrity across all supported silicon architectures.</li>
+        <li><strong>Asset Lien Forensics</strong>: Automated collateral detection protecting independent technicians from handling encumbered or flagged devices in informal markets.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/DANIELKILONZI/pulsewave-core">
-          <img src="https://img.shields.io/badge/Repository-DANIELKILONZI%2Fpulsewave--core-22d3ee?style=for-the-badge&logo=github&logoColor=020617" alt="Pulsewave Core Repo"/>
-        </a>
+        <img src="https://img.shields.io/badge/Status-Private%20%2F%20In%20Production-0284c7?style=for-the-badge&logo=shield&logoColor=white" alt="Status"/>
         &nbsp;
-        <img src="https://img.shields.io/badge/Tests-280%20Unit%20%E2%80%A2%20196%20Integration-16a34a?style=for-the-badge&logo=pytest&logoColor=white" alt="Tests"/>
+        <img src="https://img.shields.io/badge/Target-AArch64%20%E2%80%A2%20POSIX-6366f1?style=for-the-badge&logo=linux&logoColor=white" alt="Target"/>
         &nbsp;
-        <img src="https://img.shields.io/badge/Architecture-ARM64%20%E2%80%A2%20x86__64-6366f1?style=for-the-badge&logo=linux&logoColor=white" alt="Arch"/>
+        <img src="https://img.shields.io/badge/Deployment-Offline%20Air--Gapped-16a34a?style=for-the-badge&logo=signal&logoColor=white" alt="Deployment"/>
       </p>
     </td>
   </tr>
@@ -123,9 +122,9 @@
 
 ---
 
-<!-- SELECTED OPEN SOURCE WORK -->
+<!-- SELECTED PUBLIC OPEN SOURCE WORK -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=76&text=%F0%9F%A7%B0+Selected+Systems+%26+Protocol+Work&fontSize=24&color=0:0c1a2e,50:0c2340,100:1e3a5f&fontColor=38bdf8&animation=fadeIn" alt="Selected Systems and Protocol Work"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=76&text=%F0%9F%A7%B0+Public+Systems+%26+Protocol+Work&fontSize=24&color=0:0c1a2e,50:0c2340,100:1e3a5f&fontColor=38bdf8&animation=fadeIn" alt="Public Systems and Protocol Work"/>
 </p>
 
 <table align="center" width="840">
@@ -136,7 +135,7 @@
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Graph_Algorithms-0369a1?style=flat-square"/>
-        <img src="https://img.shields.io/badge/M--PESA_Daraja-00a651?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Fintech_Forensics-00a651?style=flat-square"/>
       </p>
       <sub>🔍 Explainable signals · 🛡️ Synthetic identity detection</sub>
     </td>
@@ -154,7 +153,7 @@
   <tr>
     <td width="420" valign="top">
       <h3><a href="https://github.com/DANIELKILONZI/Human-Readable-Binary-Protocol">📦 Human-Readable Binary Protocol</a></h3>
-      <p>Deterministic network serialization engine with self-describing framing. Delivers the packing efficiency of binary wire protocols with zero-overhead Wireshark dissection and human readability.</p>
+      <p>Deterministic network serialization engine with self-describing framing. Delivers the packing efficiency of binary wire protocols with zero-overhead dissection and human readability.</p>
       <p>
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
         <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
@@ -188,10 +187,10 @@
 
 | Domain | Core Technologies &amp; Primitives | Focus &amp; Practical Experience |
 |:---|:---|:---|
-| **Low-Level Systems &amp; OS** | `C99` · `POSIX Bash` · `Linux Kernel memfd` · `AOT ELF` · `Android sysfs` · `ARM64` | In-memory execution, process sealing, Android rootless sandbox, sysfs hardware telemetry |
-| **Applied Cryptography** | `Ed25519 (RFC 8032)` · `SHA-256 Hash Chains` · `Asymmetric Key Delegation` | Air-gapped voucher tokens, monotonic boot clocks, tamper-evident audit logs, anti-replay |
-| **Distributed Architecture** | `Python 3 (Asyncio)` · `Go` · `Rust` · `SQLite WAL` · `Kafka` · `ZeroMQ` | Store-and-forward networks, offline data reconciliation, event-driven settlement |
-| **Fintech &amp; Telecommunications** | `Safaricom M-PESA Daraja (C2B / STK)` · `QMI / AT Modem Commands` · `PayGo MDM` | Autonomous micro-billing, carrier boundary analysis, collateral lien detection |
+| **Low-Level Systems &amp; OS** | `C` · `POSIX Shell` · `Linux Memory Sealing` · `AOT Binaries` · `Android sysfs` · `ARM64` | In-memory execution, process containment, rootless sandboxing, hardware telemetry |
+| **Applied Cryptography** | `Ed25519` · `SHA-256 Hash Chains` · `Asymmetric Key Delegation` | Air-gapped voucher tokens, monotonic boot clocks, tamper-evident audit logs, anti-replay |
+| **Distributed Architecture** | `Python 3` · `Go` · `Rust` · `SQLite WAL` · `Kafka` · `ZeroMQ` | Store-and-forward networks, offline data reconciliation, event-driven settlement |
+| **Fintech &amp; Telecommunications** | `Mobile Money APIs` · `Modem AT / QMI Protocols` · `Collateral Verification` | Autonomous micro-billing, carrier boundary analysis, collateral lien detection |
 
 </div>
 
@@ -201,23 +200,23 @@
 
 <!-- ARCHITECTURE / SYSTEM THINKING MAP -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=64&text=%F0%9F%A7%A0+Frontier+System+Architecture&fontSize=22&color=0:0c1a2e,50:0369a1,100:0c2340&fontColor=22d3ee&animation=twinkling" alt="Architecture Map"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=64&text=%F0%9F%A7%A0+System+Architecture+Philosophy&fontSize=22&color=0:0c1a2e,50:0369a1,100:0c2340&fontColor=22d3ee&animation=twinkling" alt="Architecture Map"/>
 </p>
 
 ```mermaid
 flowchart LR
-    A[Physical Handset] -->|USB OTG / Sysfs| B[Sealed RAM Engine]
-    B -->|C99 memfd_create| C{Knox 0x0 Safe?}
-    C -->|Yes: Non-Destructive| D[17-Vector Silicon Triage]
-    C -->|No: Partition Risk| E[Fail-Closed Quarantine]
-    D --> F[Ed25519 Signed Docket]
-    D --> G[M-PESA Prepaid Fuel Burn]
-    F --> H[Kenya ODPC §41 Audit Log]
+    A[Physical Handset] -->|USB OTG / Hardware Bus| B[Volatile Memory Sandbox]
+    B -->|Anonymous RAM Execution| C{Integrity & Invariant Check}
+    C -->|Pass: Non-Destructive| D[Multi-Vector Silicon Triage]
+    C -->|Fail: Risk Detected| E[Fail-Closed Quarantine]
+    D --> F[Cryptographically Signed Docket]
+    D --> G[Micro-Metered Settlement]
+    F --> H[Immutable Audit Trail]
     G --> H
 ```
 
 <p align="center">
-  <em>From raw silicon registers to immutable cryptographic ledgers — closed-loop sovereign computing.</em>
+  <em>From raw hardware telemetry to immutable cryptographic ledgers — closed-loop sovereign computing.</em>
 </p>
 
 <br/>
@@ -262,7 +261,7 @@ flowchart LR
 </p>
 
 <p align="center">
-  Open to conversations with founders, distributed systems engineers, venture partners, and hardware researchers.<br/>
+  Open to conversations with founders, systems engineers, venture partners, and hardware researchers.<br/>
   <strong>Focus areas:</strong> Low-level Linux/Android systems · Applied cryptography · Frontier fintech &amp; fraud infrastructure
 </p>
 
@@ -275,8 +274,8 @@ flowchart LR
     <img src="https://img.shields.io/badge/Email-dnlkilonzi%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
-  <a href="https://github.com/DANIELKILONZI/pulsewave-core">
-    <img src="https://img.shields.io/badge/Flagship-Pulsewave%20Core-0284c7?style=for-the-badge&logo=github&logoColor=white" alt="Flagship Repo"/>
+  <a href="https://github.com/DANIELKILONZI?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Public%20Repositories-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Public Repos"/>
   </a>
 </p>
 
